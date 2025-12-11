@@ -38,10 +38,10 @@ export default function Navbar() {
   const desktopLinkBase =
     "text-sm font-medium transition-colors md:text-base";
   const desktopLinkColors = isScrolled
-    ? "text-zinc-800 hover:text-rose-700"
-    : "text-white hover:text-black";
+    ? "text-zinc-800 hover:text-rose-500"
+    : "text-white hover:text-rose-300";
 
-  const brandColor = isScrolled ? "text-rose-600" : "text-rose-500";
+  const brandColor = isScrolled ? "text-rose-500" : "text-rose-300";
   const mobileIconColor = isScrolled ? "text-zinc-800" : "text-white";
 
   // Fondo del panel mobile según scroll (sin líneas)

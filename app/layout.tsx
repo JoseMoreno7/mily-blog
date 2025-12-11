@@ -7,7 +7,7 @@ import Footer from "@/components/layout/Footer";
 export const metadata: Metadata = {
   title: "Mily Peru Guide",
   description:
-    "Blog bilingüe sobre Perú: historia, gastronomía y destinos turísticos guiado por Mily.",
+    "Blog sobre Perú: historia, gastronomía y destinos turísticos guiado por Mily.",
 };
 
 type RootLayoutProps = {

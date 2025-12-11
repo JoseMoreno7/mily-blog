@@ -103,40 +103,6 @@
         }
       }
     },
-    "value": {
-      "title": "¿Por qué aprender Perú con Mily?",
-      "subtitle": "Este blog está pensado tanto para viajeros curiosos como para guías que quieren explicar mejor la historia y la cultura peruana.",
-      "pillar1": {
-        "title": "Guía oficial y experimentada",
-        "text": "Mily es guía oficial de turismo, con experiencia guiando a viajeros de todo el mundo en español e inglés."
-      },
-      "pillar2": {
-        "title": "Explicaciones claras",
-        "text": "Nada de discursos complicados: aquí encontrarás historias, ejemplos y comparaciones fáciles de recordar."
-      },
-      "pillar3": {
-        "title": "Perú vivido desde dentro",
-        "text": "Consejos, anécdotas y detalles que solo alguien que vive y trabaja en turismo en Perú puede contarte."
-      }
-    },
-    "destinations": {
-      "title": "Destinos destacados",
-      "subtitle": "Empezaremos con los lugares donde Mily guía con más frecuencia. Más adelante iremos sumando nuevos destinos.",
-      "linkAll": "Ver todas las guías de destinos",
-      "cardCta": "Ver guía completa",
-      "lima": {
-        "title": "Lima",
-        "text": "Centro Histórico, balcones coloniales, catacumbas, barrios modernos como Miraflores y Barranco."
-      },
-      "cusco": {
-        "title": "Cusco",
-        "text": "Capital del antiguo Imperio Inca, Valle Sagrado y Machu Picchu, con historias para entender mejor cada sitio."
-      },
-      "selva": {
-        "title": "Selva (Puerto Maldonado)",
-        "text": "Puerta de entrada a la Amazonía peruana: fauna, flora y experiencias en la selva baja del Perú."
-      }
-    },
     "aboutMini": {
       "eyebrow": "Tu guía local",
       "badge": "Guía Oficial",
@@ -147,6 +113,109 @@
       "highlight3": "Pasión por Perú",
       "cta": "Conoce mi historia completa",
       "ctaHelper": "Descubre por qué miles confían en mí"
+    }
+  },
+  "Destinations": {
+    "intro": {
+    "eyebrow": "Antes de elegir tu ruta",
+    "title": "¿Por dónde empezar a conocer el Perú?",
+    "description": "Este blog no es un catálogo infinito de lugares, sino una selección honesta de rutas que Mily conoce, ha guiado y recomienda para un primer contacto con el Perú.",
+    "cards": {
+      "lima": {
+        "title": "Lima: tu primer punto de partida",
+        "text": "Centro histórico, barrios bohemios y vista al mar. Ideal para entender la mezcla entre lo colonial y lo moderno."
+      },
+      "surChico": {
+        "title": "Sur chico: mar, desierto y aventura",
+        "text": "Paracas, Islas Ballestas y Huacachina se combinan en un full day perfecto para quienes quieren ver fauna, dunas y oasis."
+      },
+      "icaNazca": {
+        "title": "Ica & Nazca: vino, pisco y misterios",
+        "text": "Bodegas, degustaciones y las enigmáticas Líneas de Nazca para quienes quieren ir un poco más lejos desde Lima."
+      }
+    }
+  },
+    "hero": {
+      "eyebrow": "Guías de destinos",
+      "title": "Destinos de Perú que Mily conoce de verdad",
+      "subtitle": "Lugares perfectos para tu primer viaje: mar, desierto, tradición y ciudad.",
+      "alt": "Vista de distintos destinos turísticos del Perú"
+    },
+    "limaHistoric": {
+      "eyebrow": "Lima – Centro histórico",
+      "title": "Tu primer paseo por el corazón de Lima",
+      "intro": "Una ruta fácil para entender la Lima republicana: plazas, balcones, iglesias y edificios emblemáticos que puedes recorrer a pie.",
+      "stopLabel": "Parada {number}",
+      "labels": {
+        "schedule": "Horario sugerido",
+        "price": "Entrada"
+      },
+      "buttons": {
+        "map": "Ver en el mapa",
+        "history": "Ver historia relacionada"
+      },
+      "places": {
+        "hotelBolivar": {
+          "name": "Gran Hotel Bolívar",
+          "description": "Un hotel histórico frente a la Plaza San Martín, famoso por su arquitectura y por el pisco sour del bar.",
+          "schedule": "Ideal para visitar por la tarde o noche, cuando la plaza está iluminada.",
+          "price": "Ingreso libre al lobby; consumo aparte en el bar o restaurante."
+        },
+        "plazaSanMartin": {
+          "name": "Plaza San Martín",
+          "description": "Una de las plazas más importantes de Lima, punto perfecto para empezar tu recorrido por el centro.",
+          "schedule": "Espacio público, accesible todo el día.",
+          "price": "Visita gratuita."
+        },
+        "jironUnion": {
+          "name": "Jirón de la Unión",
+          "description": "La calle peatonal que conecta la Plaza San Martín con la Plaza de Armas: tiendas, edificios antiguos y mucha vida limeña.",
+          "schedule": "Buen lugar para caminar durante el día y al atardecer.",
+          "price": "Visita gratuita."
+        },
+        "plazaArmas": {
+          "name": "Plaza Mayor de Lima",
+          "description": "El corazón político y religioso de la ciudad, rodeado de balcones de madera y edificios coloniales.",
+          "schedule": "Recomendable visitarla de día y, si puedes, también de noche.",
+          "price": "Visita gratuita."
+        },
+        "catedralLima": {
+          "name": "Catedral de Lima",
+          "description": "La iglesia principal de la ciudad, con tumbas históricas y un pequeño museo en su interior.",
+          "schedule": "Normalmente abre en las mañanas y primeras horas de la tarde (verifica horarios actualizados).",
+          "price": "Entrada pagada al museo; la visita rápida al templo puede ser gratuita en ciertos horarios."
+        },
+        "palacioGobierno": {
+          "name": "Palacio de Gobierno",
+          "description": "La sede de la presidencia del Perú, famosa por su fachada y por el cambio de guardia.",
+          "schedule": "El cambio de guardia suele verse al mediodía (verifica el horario actual).",
+          "price": "Ver la fachada y la plaza es gratuito."
+        }
+      }
+    }
+  },
+  "Gastronomy": {
+    "hero": {
+      "eyebrow": "Sabores del Perú",
+      "title": "La cocina peruana que Mily ha probado",
+      "subtitle": "De los ceviches de la costa a los platos andinos: una guía honesta para comer bien.",
+      "alt": "Gastronomía peruana típica"
+    }
+  },
+  "History": {
+    "hero": {
+      "eyebrow": "Raíces del Perú",
+      "title": "Historia peruana contada por Mily",
+      "subtitle": "Desde los incas hasta hoy: las historias que dan forma a este país.",
+      "alt": "Historia y cultura del Perú"
+    }
+  },
+  "Contact": {
+    "hero": {
+      "eyebrow": "Hablemos",
+      "title": "¿Tienes preguntas sobre Perú?",
+      "subtitle": "Escríbele a Mily y te ayuda a planear tu viaje.",
+      "alt": "Contacto con Mily"
     }
   }
 }

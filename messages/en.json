@@ -12,7 +12,7 @@
     "madeWithLove": "Made with love by José for Mily 💛",
     "tagline": "Bilingual blog about Peru created by Mily, a licensed tour guide.",
     "follow": "Follow Mily on social media:"
-},
+  },
   "Home": {
     "hero": {
       "eyebrow": "Travel & culture blog",
@@ -113,6 +113,109 @@
       "highlight3": "Passion for Peru",
       "cta": "Read my full story",
       "ctaHelper": "Discover why thousands trust me"
+    }
+  },
+  "Destinations": {
+    "intro": {
+    "eyebrow": "Before choosing your route",
+    "title": "Where to start discovering Peru?",
+    "description": "This blog is not an endless list of places, but a curated selection of routes that Mily knows well, has guided and truly recommends for a first trip to Peru.",
+    "cards": {
+      "lima": {
+        "title": "Lima: your natural starting point",
+        "text": "Historic center, bohemian districts and ocean views. Perfect to feel the mix of colonial and modern Peru."
+      },
+      "surChico": {
+        "title": "Sur chico: sea, desert and adventure",
+        "text": "Paracas, Ballestas Islands and Huacachina in one classic full day for wildlife, dunes and oasis lovers."
+      },
+      "icaNazca": {
+        "title": "Ica & Nazca: wine, pisco and mysteries",
+        "text": "Wineries, tastings and the enigmatic Nazca Lines if you want to go a bit further from Lima."
+      }
+    }
+  },
+    "hero": {
+      "eyebrow": "Travel guides",
+      "title": "Peruvian destinations Mily really knows",
+      "subtitle": "Perfect places for your first trip: ocean, desert, traditions and city life.",
+      "alt": "View of different travel destinations in Peru"
+    },
+    "limaHistoric": {
+      "eyebrow": "Lima – Historic Center",
+      "title": "Your first walk through downtown Lima",
+      "intro": "An easy route to understand republican Lima: plazas, balconies, churches and iconic buildings you can visit on foot.",
+      "stopLabel": "Stop {number}",
+      "labels": {
+        "schedule": "Suggested time",
+        "price": "Entrance"
+      },
+      "buttons": {
+        "map": "Open in maps",
+        "history": "Read related history"
+      },
+      "places": {
+        "hotelBolivar": {
+          "name": "Gran Hotel Bolívar",
+          "description": "Historic hotel facing San Martín Square, known for its architecture and classic pisco sour.",
+          "schedule": "Nice to visit in the afternoon or evening when the square is lit up.",
+          "price": "Free access to the lobby; food and drinks are paid separately."
+        },
+        "plazaSanMartin": {
+          "name": "San Martín Square",
+          "description": "One of Lima’s main squares and the perfect starting point for your downtown walk.",
+          "schedule": "Public space, accessible all day.",
+          "price": "Free visit."
+        },
+        "jironUnion": {
+          "name": "Jirón de la Unión",
+          "description": "The pedestrian street that connects San Martín Square with the Main Square, full of old buildings and local life.",
+          "schedule": "Great to walk during the day and around sunset.",
+          "price": "Free visit."
+        },
+        "plazaArmas": {
+          "name": "Main Square of Lima",
+          "description": "The political and religious heart of the city, surrounded by colonial balconies and government buildings.",
+          "schedule": "Recommended both during the day and at night.",
+          "price": "Free visit."
+        },
+        "catedralLima": {
+          "name": "Lima Cathedral",
+          "description": "The main church of the city, with historic tombs and a small museum inside.",
+          "schedule": "Usually opens in the morning and early afternoon (check updated schedule).",
+          "price": "Paid entrance to the museum; quick visits to the temple may be free at certain times."
+        },
+        "palacioGobierno": {
+          "name": "Government Palace",
+          "description": "The seat of the Peruvian presidency, known for its facade and the changing of the guard.",
+          "schedule": "The changing of the guard is usually around noon (check the current time).",
+          "price": "Seeing the facade and square is free."
+        }
+      }
+    }
+  },
+  "Gastronomy": {
+    "hero": {
+      "eyebrow": "Flavors of Peru",
+      "title": "Peruvian cuisine Mily has tasted",
+      "subtitle": "From coastal ceviches to Andean dishes: an honest guide to eating well.",
+      "alt": "Traditional Peruvian gastronomy"
+    }
+  },
+  "History": {
+    "hero": {
+      "eyebrow": "Roots of Peru",
+      "title": "Peruvian history told by Mily",
+      "subtitle": "From the Incas to today: the stories that shape this country.",
+      "alt": "History and culture of Peru"
+    }
+  },
+  "Contact": {
+    "hero": {
+      "eyebrow": "Let's talk",
+      "title": "Questions about Peru?",
+      "subtitle": "Write to Mily and she'll help you plan your trip.",
+      "alt": "Contact Mily"
     }
   }
 }
