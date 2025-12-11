@@ -66,7 +66,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center gap-3">
           <div className="relative h-16 w-16 md:h-20 md:w-20">
             <Image
-              src="/img/mily-logo.png"
+              src="/img/mily-logo-2.png"
               alt="Mily Peru Guide"
               fill
               className="object-contain drop-shadow-lg"
