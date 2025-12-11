@@ -1,0 +1,152 @@
+{
+  "Nav": {
+    "brand": "Mily Peru Guide",
+    "home": "Inicio",
+    "destinations": "Destinos",
+    "gastronomy": "Gastronomía",
+    "history": "Historia",
+    "contact": "Contacto"
+  },
+  "Footer": {
+    "rights": "Todos los derechos reservados.",
+    "madeWithLove": "Hecho con cariño por José para Mily 💛",
+    "tagline": "Blog bilingüe sobre Perú creado por Mily, guía oficial de turismo.",
+    "follow": "Sigue a Mily en redes:"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Blog de viaje y cultura",
+      "title": "Descubre el Perú auténtico con Mily",
+      "subtitle": "Guías claras y cercanas sobre historia, gastronomía y destinos de Perú, pensadas para viajeros curiosos y guías turísticos."
+    },
+    "bestDestinations": {
+      "title": "Destinos destacados de Perú",
+      "subtitle": "Una selección de lugares que Mily conoce muy bien y que son perfectos para tu primer viaje por Perú: historia, mar, desierto y cultura.",
+      "cta": "Ver guía de este destino",
+      "destinations": {
+        "limaCentro": {
+          "badge": "Lima",
+          "title": "Centro histórico de Lima",
+          "description": "Balcones coloniales, Plaza Mayor y las iglesias más importantes del casco histórico."
+        },
+        "barranco": {
+          "badge": "Lima",
+          "title": "Barranco bohemio",
+          "description": "Puente de los Suspiros, murales, cafés y atardeceres con vista al mar."
+        },
+        "circuitoMagico": {
+          "badge": "Lima",
+          "title": "Circuito Mágico del Agua",
+          "description": "Fuentes iluminadas, show nocturno y un clásico para disfrutar Lima de noche."
+        },
+        "paracasHuacachina": {
+          "badge": "Ica",
+          "title": "Paracas e Ica – Islas Ballestas y Huacachina",
+          "description": "Paseo en bote, desierto, dunas y oasis: uno de los full days más famosos desde Lima."
+        },
+        "nazca": {
+          "badge": "Ica",
+          "title": "Líneas de Nazca",
+          "description": "Figuras misteriosas vistas desde el aire, uno de los grandes enigmas del Perú."
+        },
+        "museosLima": {
+          "badge": "Lima",
+          "title": "Museos y cultura en Lima",
+          "description": "Museo Larco y otros espacios que te ayudan a entender mejor la historia del país."
+        }
+      }
+    },
+    "heroCarousel": {
+      "sectionTitle": "Los sabores más representativos del Perú",
+      "sectionSubtitle": "Tres clásicos que enamoran a cualquier viajero: lomo saltado, ceviche y Pisco Sour, explicados de forma clara y sencilla.",
+      "badge": "Sabores del Perú",
+      "lomo": {
+        "title": "Lomo saltado: Perú en una sartén",
+        "subtitle": "Salteado al wok con fuego fuerte, papas fritas y arroz blanco. Uno de los platos que más sorprende a los viajeros.",
+        "cta": "Ver más platos típicos"
+      },
+      "ceviche": {
+        "title": "Ceviche: el clásico de la costa",
+        "subtitle": "Pescado fresco, limón, ají y cebolla morada. Aprende cómo explicarlo y cuándo es mejor recomendarlo a tus pasajeros.",
+        "cta": "Explorar la guía de ceviche"
+      },
+      "pisco": {
+        "title": "Pisco sour: el brindis perfecto",
+        "subtitle": "Historia, curiosidades y tips para recomendar bares y experiencias donde probar el cóctel bandera del Perú.",
+        "cta": "Descubrir más sobre el pisco"
+      }
+    },
+    "historyPreview": {
+      "title": "Historia del Perú sin complicaciones",
+      "subtitle": "Cuatro grandes etapas para entender el país sin memorizar mil fechas: perfecto para guías y viajeros curiosos.",
+      "cta": "Ver guía completa de historia",
+      "periods": {
+        "preinca": {
+          "step": "Etapa 1",
+          "title": "Período preincaico",
+          "description": "Culturas como Caral, Paracas, Nasca o Moche preparan el camino antes del Imperio inca."
+        },
+        "inca": {
+          "step": "Etapa 2",
+          "title": "Imperio inca",
+          "description": "Cusco como ombligo del mundo, caminos, andenes agrícolas y una organización impresionante."
+        },
+        "virreinato": {
+          "step": "Etapa 3",
+          "title": "Virreinato del Perú",
+          "description": "Llegan los españoles, se mezclan tradiciones y Lima se convierte en la ciudad más importante de Sudamérica."
+        },
+        "republica": {
+          "step": "Etapa 4",
+          "title": "Independencia y República",
+          "description": "Guerras, cambios y construcción de la identidad peruana hasta llegar al país que conocemos hoy."
+        }
+      }
+    },
+    "value": {
+      "title": "¿Por qué aprender Perú con Mily?",
+      "subtitle": "Este blog está pensado tanto para viajeros curiosos como para guías que quieren explicar mejor la historia y la cultura peruana.",
+      "pillar1": {
+        "title": "Guía oficial y experimentada",
+        "text": "Mily es guía oficial de turismo, con experiencia guiando a viajeros de todo el mundo en español e inglés."
+      },
+      "pillar2": {
+        "title": "Explicaciones claras",
+        "text": "Nada de discursos complicados: aquí encontrarás historias, ejemplos y comparaciones fáciles de recordar."
+      },
+      "pillar3": {
+        "title": "Perú vivido desde dentro",
+        "text": "Consejos, anécdotas y detalles que solo alguien que vive y trabaja en turismo en Perú puede contarte."
+      }
+    },
+    "destinations": {
+      "title": "Destinos destacados",
+      "subtitle": "Empezaremos con los lugares donde Mily guía con más frecuencia. Más adelante iremos sumando nuevos destinos.",
+      "linkAll": "Ver todas las guías de destinos",
+      "cardCta": "Ver guía completa",
+      "lima": {
+        "title": "Lima",
+        "text": "Centro Histórico, balcones coloniales, catacumbas, barrios modernos como Miraflores y Barranco."
+      },
+      "cusco": {
+        "title": "Cusco",
+        "text": "Capital del antiguo Imperio Inca, Valle Sagrado y Machu Picchu, con historias para entender mejor cada sitio."
+      },
+      "selva": {
+        "title": "Selva (Puerto Maldonado)",
+        "text": "Puerta de entrada a la Amazonía peruana: fauna, flora y experiencias en la selva baja del Perú."
+      }
+    },
+    "aboutMini": {
+      "eyebrow": "Tu guía local",
+      "badge": "Guía Oficial",
+      "title": "Hola, soy Mily, tu guía en Perú",
+      "text": "Soy guía oficial de turismo y me encanta compartir la historia, la cultura y la vida cotidiana del Perú con viajeros de todo el mundo. Este blog nació para ayudarte a entender mejor lo que ves durante tus viajes, y para que otros guías tengan explicaciones claras y útiles.",
+      "highlight1": "Guía certificada",
+      "highlight2": "+1000 viajeros",
+      "highlight3": "Pasión por Perú",
+      "cta": "Conoce mi historia completa",
+      "ctaHelper": "Descubre por qué miles confían en mí"
+    }
+  }
+}

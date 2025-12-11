@@ -1,0 +1,118 @@
+{
+  "Nav": {
+    "brand": "Mily Peru Guide",
+    "home": "Home",
+    "destinations": "Destinations",
+    "gastronomy": "Gastronomy",
+    "history": "History",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "madeWithLove": "Made with love by José for Mily 💛",
+    "tagline": "Bilingual blog about Peru created by Mily, a licensed tour guide.",
+    "follow": "Follow Mily on social media:"
+},
+  "Home": {
+    "hero": {
+      "eyebrow": "Travel & culture blog",
+      "title": "Discover the real Peru with Mily",
+      "subtitle": "Clear, friendly guides about Peru’s history, food and destinations, created for curious travelers and tour guides."
+    },
+    "bestDestinations": {
+      "title": "Featured destinations in Peru",
+      "subtitle": "A selection of places Mily knows very well and that are perfect for your first trip around Peru: history, sea, desert and culture.",
+      "cta": "See this destination guide",
+      "destinations": {
+        "limaCentro": {
+          "badge": "Lima",
+          "title": "Historic center of Lima",
+          "description": "Colonial balconies, the Main Square and the most important churches in the old town."
+        },
+        "barranco": {
+          "badge": "Lima",
+          "title": "Bohemian Barranco",
+          "description": "Bridge of Sighs, murals, cafés and sunsets with ocean views."
+        },
+        "circuitoMagico": {
+          "badge": "Lima",
+          "title": "Magic Water Circuit",
+          "description": "Illuminated fountains, a night show and a classic plan to enjoy Lima after dark."
+        },
+        "paracasHuacachina": {
+          "badge": "Ica",
+          "title": "Paracas & Ica – Ballestas Islands and Huacachina",
+          "description": "Boat ride, desert, sand dunes and an oasis: one of the most famous full-day trips from Lima."
+        },
+        "nazca": {
+          "badge": "Ica",
+          "title": "Nazca Lines",
+          "description": "Mysterious figures seen from the air, one of Peru’s greatest enigmas."
+        },
+        "museosLima": {
+          "badge": "Lima",
+          "title": "Museums and culture in Lima",
+          "description": "Larco Museum and other spaces that help you understand the country’s history better."
+        }
+      }
+    },
+    "heroCarousel": {
+      "sectionTitle": "Peru’s most iconic flavors",
+      "sectionSubtitle": "Three classics every traveler should try: lomo saltado, ceviche and Pisco Sour, explained in a simple and friendly way.",
+      "badge": "Flavors of Peru",
+      "lomo": {
+        "title": "Lomo saltado: Peru in a frying pan",
+        "subtitle": "Beef stir-fried in a hot wok with fries and white rice. One of the dishes that surprises travelers the most.",
+        "cta": "See more typical dishes"
+      },
+      "ceviche": {
+        "title": "Ceviche: a coastal classic",
+        "subtitle": "Fresh fish, lime, chili and red onion. Learn how to explain it and when it’s best to recommend it to your passengers.",
+        "cta": "Explore the ceviche guide"
+      },
+      "pisco": {
+        "title": "Pisco sour: the perfect toast",
+        "subtitle": "History, fun facts and tips to recommend bars and experiences where travelers can try Peru’s signature cocktail.",
+        "cta": "Learn more about pisco"
+      }
+    },
+    "historyPreview": {
+      "title": "Peruvian history made simple",
+      "subtitle": "Four key stages so you can explain Peru’s past without getting lost in dates and complicated names.",
+      "cta": "See the full history guide",
+      "periods": {
+        "preinca": {
+          "step": "Stage 1",
+          "title": "Pre-Inca period",
+          "description": "Cultures like Caral, Paracas, Nazca or Moche set the foundations long before the Inca Empire."
+        },
+        "inca": {
+          "step": "Stage 2",
+          "title": "Inca Empire",
+          "description": "Cusco as the center of the world, an incredible road network, terraces and organized society."
+        },
+        "virreinato": {
+          "step": "Stage 3",
+          "title": "Viceroyalty of Peru",
+          "description": "The Spanish arrive, traditions mix and Lima becomes the most important city in South America."
+        },
+        "republica": {
+          "step": "Stage 4",
+          "title": "Independence and Republic",
+          "description": "Wars, changes and the slow construction of a Peruvian identity up to the country we know today."
+        }
+      }
+    },
+    "aboutMini": {
+      "eyebrow": "Your local guide",
+      "badge": "Official Guide",
+      "title": "Hi, I'm Mily, your guide in Peru",
+      "text": "I'm an official tour guide and I love sharing Peru's history, culture and daily life with travelers from all over the world. This blog was born to help you understand what you see during your trips and to give other guides clear and useful explanations.",
+      "highlight1": "Certified guide",
+      "highlight2": "+1000 travelers",
+      "highlight3": "Passion for Peru",
+      "cta": "Read my full story",
+      "ctaHelper": "Discover why thousands trust me"
+    }
+  }
+}
