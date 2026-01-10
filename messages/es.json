@@ -120,21 +120,21 @@
     "eyebrow": "Antes de elegir tu ruta",
     "title": "¿Por dónde empezar a conocer el Perú?",
     "description": "Este blog no es un catálogo infinito de lugares, sino una selección honesta de rutas que Mily conoce, ha guiado y recomienda para un primer contacto con el Perú.",
-    "cards": {
-      "lima": {
-        "title": "Lima: tu primer punto de partida",
-        "text": "Centro histórico, barrios bohemios y vista al mar. Ideal para entender la mezcla entre lo colonial y lo moderno."
-      },
-      "surChico": {
-        "title": "Sur chico: mar, desierto y aventura",
-        "text": "Paracas, Islas Ballestas y Huacachina se combinan en un full day perfecto para quienes quieren ver fauna, dunas y oasis."
-      },
-      "icaNazca": {
-        "title": "Ica & Nazca: vino, pisco y misterios",
-        "text": "Bodegas, degustaciones y las enigmáticas Líneas de Nazca para quienes quieren ir un poco más lejos desde Lima."
+      "cards": {
+        "lima": {
+          "title": "Lima: tu primer punto de partida",
+          "text": "Centro histórico, barrios bohemios y vista al mar. Ideal para entender la mezcla entre lo colonial y lo moderno."
+        },
+        "surChico": {
+          "title": "Sur chico: mar, desierto y aventura",
+          "text": "Paracas, Islas Ballestas y Huacachina se combinan en un full day perfecto para quienes quieren ver fauna, dunas y oasis."
+        },
+        "icaNazca": {
+          "title": "Ica & Nazca: vino, pisco y misterios",
+          "text": "Bodegas, degustaciones y las enigmáticas Líneas de Nazca para quienes quieren ir un poco más lejos desde Lima."
+        }
       }
-    }
-  },
+    },
     "hero": {
       "eyebrow": "Guías de destinos",
       "title": "Destinos de Perú que Mily conoce de verdad",
@@ -192,6 +192,251 @@
           "price": "Ver la fachada y la plaza es gratuito."
         }
       }
+    },
+    "mirafloresCoast": {
+      "eyebrow": "Lima – Malecón de Miraflores",
+      "title": "Un paseo por los miradores de Miraflores",
+      "intro": "Un recorrido sencillo por los parques del malecón de Miraflores: miradores frente al mar, arte, rincones románticos y centros comerciales con vista a la Costa Verde.",
+      "stopLabel": "Parada {number}",
+      "labels": {
+        "schedule": "Horario sugerido",
+        "price": "Entrada"
+      },
+      "buttons": {
+        "map": "Ver en el mapa",
+        "history": "Ver historia relacionada"
+      },
+      "places": {
+        "parqueMariaReiche": {
+          "name": "Parque María Reiche",
+          "description": "Parque con vista a la Costa Verde dedicado a María Reiche, investigadora de las Líneas de Nasca. Hay maquetas de las figuras y varios miradores hacia el mar.",
+          "schedule": "Mañana o tarde con buena luz para ver las maquetas y el acantilado.",
+          "price": "Ingreso libre."
+        },
+        "parqueChino": {
+          "name": "Parque Chino",
+          "description": "Pequeño parque temático con pagoda, detalles de la cultura china y una vista distinta del malecón de Miraflores.",
+          "schedule": "Tarde, ideal para fotos con luz suave.",
+          "price": "Ingreso libre."
+        },
+        "parqueAmor": {
+          "name": "Parque del Amor",
+          "description": "Uno de los lugares más famosos de Miraflores. La escultura \"El Beso\" y los muros de mosaicos son perfectos para ver el atardecer frente al mar.",
+          "schedule": "Atardecer, para disfrutar la vista y tomar fotos del sol cayendo sobre el mar.",
+          "price": "Ingreso libre."
+        },
+        "parqueIntihuatana": {
+          "name": "Parque Intihuatana",
+          "description": "Parque con un reloj solar inspirado en las culturas andinas y una vista amplia de los acantilados de Miraflores.",
+          "schedule": "Tarde, cuando todavía hay sol para ver bien el reloj y el malecón.",
+          "price": "Ingreso libre."
+        },
+        "larcomar": {
+          "name": "Larcomar",
+          "description": "Centro comercial al aire libre construido sobre los acantilados. Tiendas, restaurantes y miradores hacia la Costa Verde.",
+          "schedule": "Tarde–noche. Puedes combinar compras, cena y vista nocturna de la ciudad.",
+          "price": "Ingreso libre; consumo aparte en tiendas y restaurantes."
+        },
+        "puenteVillena": {
+          "name": "Puente Villena (\"puente de vidrio\")",
+          "description": "Puente peatonal con paneles de vidrio que une partes del malecón de Miraflores y ofrece una vista espectacular de la Costa Verde y el camino hacia Barranco.",
+          "schedule": "Atardecer o noche, cuando se encienden las luces del puente y la Costa Verde.",
+          "price": "Cruzar el puente es gratuito."
+        }
+      }
+    },
+    "barranco": {
+      "eyebrow": "Lima – Barranco bohemio",
+      "title": "Un paseo entre murales, música y mar en Barranco",
+      "intro": "Empieza en un parque tranquilo, pasa por monumentos, callecitas con música criolla y termina entre miradores y plazas llenas de vida.",
+      "stopLabel": "Parada {number}",
+      "labels": {
+        "schedule": "Horario sugerido",
+        "price": "Entrada"
+      },
+      "buttons": {
+        "map": "Ver en el mapa",
+        "history": "Ver historia relacionada"
+      },
+      "places": {
+        "parqueVillarreal": {
+          "name": "Parque Federico Villarreal",
+          "description": "Un parque pequeño y tranquilo para empezar tu recorrido, con árboles y bancas donde puedes organizar la ruta.",
+          "schedule": "Mañana o tarde, ideal como punto de encuentro.",
+          "price": "Acceso libre."
+        },
+        "monumentoChabuca": {
+          "name": "Monumento a Chabuca Granda",
+          "description": "Escultura dedicada a la cantautora más querida de Barranco, autora de 'La flor de la canela'.",
+          "schedule": "Todo el día; bonito al atardecer con luz suave.",
+          "price": "Acceso libre."
+        },
+        "puenteSuspiros": {
+          "name": "Puente de los Suspiros",
+          "description": "El clásico de Barranco: puentecito de madera, grafitis, música y vista de la bajada hacia el mar.",
+          "schedule": "Tarde–noche para sentir el ambiente bohemio.",
+          "price": "Acceso libre."
+        },
+        "bajadaBanos": {
+          "name": "Bajada de Baños",
+          "description": "Camino peatonal que baja hacia el mar, lleno de murales, bares y restaurantes. Desde aquí puedes ir hacia el mirador o seguir hasta la costa.",
+          "schedule": "Tarde o noche, cuando los negocios están abiertos.",
+          "price": "Acceso libre; consumo aparte en bares y restaurantes."
+        },
+        "miradorRecavarren": {
+          "name": "Mirador Catalina Recavarren",
+          "description": "Mirador con vista al acantilado y al océano Pacífico, perfecto para fotos al atardecer.",
+          "schedule": "Atardecer para ver el cielo y las luces de la ciudad.",
+          "price": "Acceso libre."
+        },
+        "parqueMunicipal": {
+          "name": "Parque Municipal de Barranco",
+          "description": "Plaza principal del distrito, rodeada de casonas, restaurantes y la iglesia de la Santísima Cruz.",
+          "schedule": "Mañana o noche; siempre hay movimiento.",
+          "price": "Acceso libre."
+        }
+      }
+    },
+    "waterCircuit": {
+      "eyebrow": "Lima – Circuito Mágico del Agua",
+      "title": "Una noche de luces, agua y música en el Parque de la Reserva",
+      "intro": "El Circuito Mágico del Agua ocupa el histórico Parque de la Reserva, frente al Estadio Nacional. Es un plan perfecto para la tarde–noche en Lima.",
+
+      "labels": {
+        "schedule": "Horario sugerido",
+        "price": "Entrada"
+      },
+
+      "buttons": {
+        "map": "Ver en el mapa",
+        "tickets": "Ver horarios y tarifas"
+      },
+
+      "stops": {
+        "estadio": {
+          "badge": "Foto rápida",
+          "name": "Estadio Nacional (vista exterior)",
+          "description": "Antes de entrar al Circuito Mágico del Agua puedes pasar por fuera del Estadio Nacional, el estadio de fútbol más importante del país.",
+          "schedule": "Ideal al atardecer, cuando empieza a encenderse la iluminación de la ciudad.",
+          "price": "Solo vista exterior; no se suele incluir ingreso en este recorrido."
+        },
+        "parque": {
+          "badge": "Inicio del circuito",
+          "name": "Parque de la Reserva – Circuito Mágico del Agua",
+          "description": "Antiguo Parque de la Reserva, hoy convertido en un circuito de fuentes iluminadas con música, espacios para fotos y un ambiente familiar.",
+          "schedule": "Tarde–noche. Lo mejor es entrar de día y quedarse hasta que oscurezca.",
+          "price": "Entrada pagada. Los precios pueden variar según temporada; revisa la web oficial o pregunta en boletería."
+        }
+      },
+
+      "fountainsTitle": "Las 13 fuentes del Circuito Mágico del Agua",
+      "fountainsIntro": "Dentro del parque encontrarás 13 fuentes interactivas y ornamentales. Aquí te dejamos las más conocidas para que sepas qué no perderte.",
+      "highlightBadge": "Show principal de luces",
+
+      "fountains": {
+        "fantasia": {
+          "name": "Fuente de la Fantasía",
+          "description": "La fuente más famosa del circuito, donde se proyectan imágenes e historia del Perú sobre una pantalla de agua con música, luces y láser."
+        },
+        "laberinto": {
+          "name": "Laberinto del Ensueño",
+          "description": "Fuentes que forman un pequeño laberinto de agua donde puedes entrar y salir sin mojarte… si calculas bien el momento."
+        },
+        "tunelSorpresas": {
+          "name": "Túnel de las Sorpresas",
+          "description": "Un túnel formado por arcos de agua. Ideal para fotos románticas y para caminar sintiendo el sonido del agua alrededor."
+        },
+        "ninos": {
+          "name": "Fuente de los Niños",
+          "description": "Zona pensada para que los más pequeños jueguen y se refresquen. Lleva ropa extra si viajas con familia."
+        },
+        "armonia": {
+          "name": "Fuente de la Armonía",
+          "description": "Fuentes más tranquilas y ornamentales, perfectas para tomar fotos con el fondo de los edificios del centro de Lima."
+        },
+        "arcoIris": {
+          "name": "Fuente Arco Iris",
+          "description": "Chorros de agua que forman arcos de colores gracias a la iluminación nocturna."
+        },
+        "magica": {
+          "name": "Fuente Mágica",
+          "description": "Una de las fuentes centrales, con chorros altos que cambian de intensidad al ritmo de la música."
+        },
+        "ilusion": {
+          "name": "Fuente de la Ilusión",
+          "description": "Juego de chorros que aparecen y desaparecen, creando efectos visuales ideales para fotos en movimiento."
+        },
+        "cupula": {
+          "name": "Fuente de la Cúpula Visitante",
+          "description": "Una cúpula de agua donde puedes entrar al centro y ver la ciudad a través de la cortina de chorros."
+        },
+        "rioDeseos": {
+          "name": "Fuente Río de los Deseos",
+          "description": "Canal de agua iluminada donde muchas personas aprovechan para pedir un deseo y tomar fotos."
+        },
+        "vida": {
+          "name": "Fuente de la Vida",
+          "description": "Diseño que representa el movimiento y la energía del agua, con chorros en distintas alturas."
+        },
+        "union": {
+          "name": "Fuente de la Unión",
+          "description": "Juego de chorros que se cruzan y se encuentran en el centro, simbolizando la unión de las personas."
+        },
+        "tradiciones": {
+          "name": "Fuente de Tradiciones",
+          "description": "Fuente decorativa que suele acompañarse de música criolla o andina en el entorno del parque."
+        },
+        "logia": {
+          "name": "Momumento de la Logia",
+          "description": "Fuente ubicada junto a una elegante logia de estilo clásico, con columnas y arcos, muy fotogénica de noche cuando se iluminan el agua y la arquitectura."
+        }
+      }
+    },
+    "icaNazca": {
+      "eyebrow": "SUR – PARACAS, ICA Y NAZCA",
+      "title": "Ruta clásica al sur: Islas Ballestas, Huacachina y Líneas de Nazca",
+      "intro": "Un recorrido pensado para aprovechar al máximo un full day desde Lima o un viaje corto de 2 días: mar, desierto, vinos y uno de los mayores enigmas del mundo antiguo.",
+      "stopLabel": "Parada {{number}}",
+      "labels": {
+        "schedule": "Horario sugerido",
+        "price": "Entrada / costos",
+        "duration": "Duración aproximada"
+      },
+      "buttons": {
+        "map": "Ver en el mapa",
+        "tour": "Quiero este recorrido con Mily"
+      },
+      "stops": {
+        "ballestas": {
+          "name": "Paracas – Islas Ballestas",
+          "description": "Paseo en lancha por la bahía de Paracas para ver lobos marinos, aves guaneras, pingüinos de Humboldt y el famoso Candelabro trazado en la arena del desierto costero.",
+          "schedule": "Mañana temprano (tours suelen salir entre 8:00 y 10:00 a. m.).",
+          "price": "Paseo en bote + tasa de puerto y reserva (precios varían según agencia).",
+          "duration": "2 a 3 horas incluyendo embarque y desembarque."
+        },
+        "icaBodega": {
+          "name": "Ica – Bodega y almuerzo",
+          "description": "Visita a una bodega tradicional para conocer el proceso del vino y del pisco. Degustación guiada y almuerzo típico. Puedes ir a bodegas como Nieto, CulturPisco u otras reconocidas de la zona.",
+          "schedule": "Mediodía, después del paseo por las Islas Ballestas.",
+          "price": "Degustación y almuerzo según carta o menú del día.",
+          "duration": "1.5 a 2 horas entre recorrido, degustación y comida."
+        },
+        "huacachina": {
+          "name": "Oasis de Huacachina y tubulares",
+          "description": "Oasis rodeado de enormes dunas de arena. Aquí se hace el clásico paseo en tubulares (buggies) por el desierto y sandboard con vista al atardecer.",
+          "schedule": "Tarde, ideal llegar antes de las 4:00 p. m. para ver el atardecer.",
+          "price": "Paseo en tubulares y sandboard; se paga por circuito o por persona según la agencia.",
+          "duration": "1 a 2 horas según el tipo de paseo que elijas."
+        },
+        "nazcaLines": {
+          "name": "Sobrevuelo Líneas de Nazca",
+          "description": "Vuelo en avioneta sobre las misteriosas figuras trazadas en el desierto: el colibrí, el mono, la araña y muchas más. Suele hacerse como extensión del viaje, saliendo muy temprano desde Ica o quedándose a dormir en Nazca.",
+          "schedule": "Muy temprano por la mañana. Hay que llegar con anticipación al aeródromo para el check-in.",
+          "price": "Sobrevuelo + tasa de aeropuerto; los precios varían según temporada y aerolínea local.",
+          "duration": "Vuelo de 30 a 40 minutos, pero calcula al menos 2 a 3 horas entre espera y trámite."
+        }
+      },
+      "outro": "Esta ruta al sur se puede hacer como full day intenso desde Lima o dividiéndola en 2 días para viajar con más calma. Si quieres que Mily te ayude a organizar tu visita, escríbenos en la sección de contacto."
     }
   },
   "Gastronomy": {
@@ -200,22 +445,926 @@
       "title": "La cocina peruana que Mily ha probado",
       "subtitle": "De los ceviches de la costa a los platos andinos: una guía honesta para comer bien.",
       "alt": "Gastronomía peruana típica"
+    },
+    "intro": {
+      "eyebrow": "GASTRONOMÍA DEL PERÚ",
+      "title": "Sabores que nacen del mar, la sierra y la selva",
+      "subtitle": "La cocina peruana es reconocida entre las mejores del mundo gracias a su diversidad de ingredientes, técnicas e influencias. Aquí encontrarás una guía clara para entenderla por regiones y explicarla a tus viajeros sin complicarte.",
+      "paragraph1": "En un solo país conviven productos del océano Pacífico, de los Andes y de la Amazonía. A eso se suman siglos de historia: herencia indígena, aporte español, africano, chino, japonés e italiano. El resultado es una gastronomía muy variada, pero con algo en común: sabor intenso y platos que cuentan historias.",
+      "paragraph2": "Para que sea más fácil de aprender y compartir, en este blog dividimos la comida peruana en tres grandes familias: platos de la costa, de la sierra y de la selva. En cada una verás ejemplos concretos, tips para explicarlos a turistas y contexto histórico sencillo.",
+      "regions": {
+        "coast": {
+          "label": "Costa: mar, ceviche y anticuchos",
+          "description": "Platos con pescados y mariscos frescos, ajíes, maíz y papa. Aquí nacen el ceviche, el tiradito, el lomo saltado y muchos de los clásicos que los viajeros prueban en Lima y las ciudades costeras."
+        },
+        "andes": {
+          "label": "Sierra: papas, quinua y guisos",
+          "description": "Caldos y guisos más contundentes, con papas nativas, quinua, maíz, carnes y técnicas ancestrales. Ideales para climas fríos como Cusco, Puno o Ayacucho."
+        },
+        "jungle": {
+          "label": "Selva: sabores intensos y hojas de bijao",
+          "description": "Platos envueltos en hojas, uso de plátano, cecina, chorizo, pescados de río y frutas exóticas. Una cocina aromática y colorida que sorprende a quienes visitan la Amazonía peruana."
+        }
+      },
+      "next": "En las siguientes secciones verás ejemplos concretos de cada región, empezando por los platos más conocidos de la costa y luego viajando a la sierra y la selva."
+    },
+    "coast": {
+      "eyebrow": "Costa peruana",
+      "title": "Sabores de la costa del Perú",
+      "intro": "La franja costera del Perú combina el mar frío del Pacífico con ingredientes andinos y criollos. Aquí nacen ceviches, arroces marinos, causas y bebidas que se han vuelto famosas en todo el mundo.",
+      "labels": {
+        "ingredients": "Ingredientes básicos",
+        "preparation": "Preparación en pocas palabras"
+      },
+      "dishes": {
+        "ceviche": {
+          "badge": "Plato emblemático",
+          "name": "Ceviche clásico peruano",
+          "tagline": "Pescado fresco, limón recién exprimido y ají: la combinación perfecta para entender la cocina de la costa.",
+          "ingredients": "Pescado blanco fresco (bonito, corvina o similar), jugo de limón recién exprimido, ají limo, cebolla roja en pluma, culantro picado, sal, pimienta, camote sancochado, choclo y cancha serrana para acompañar.",
+          "preparation": "Corta el pescado en cubos, sazónalo con sal, pimienta, ají y culantro. Agrega el jugo de limón recién exprimido y mezcla suavemente. Deja reposar solo unos minutos, hasta que el pescado cambie de color, y sirve de inmediato con cebolla, camote, choclo y cancha.",
+          "historyCta": "Leer la historia del ceviche"
+        },
+        "lecheTigre": {
+          "badge": "Bebida de ceviche",
+          "name": "Leche de tigre",
+          "tagline": "El jugo concentrado del ceviche, servido en vaso como shot energético y perfecto para el calor.",
+          "ingredients": "Jugo de limón, caldo de pescado, jugo del ceviche, trozos pequeños de pescado, ají limo, ajo, culantro, sal y pimienta. A veces se agrega un toque de ginger ale o hielo picado para refrescar.",
+          "preparation": "Se licua suavemente el jugo de limón con caldo de pescado, parte del pescado del ceviche, ají, ajo y culantro. Se cuela, se rectifica sazón con sal y pimienta, y se sirve bien frío en vaso pequeño, decorado con cebolla, ají y, si se desea, un cubo de pescado.",
+          "historyCta": "Leer la historia de la leche de tigre"
+        },
+        "arrozMariscos": {
+          "badge": "Plato marino",
+          "name": "Arroz con mariscos",
+          "tagline": "Un arroz cremoso y lleno de mariscos, perfecto como plato fuerte después del ceviche.",
+          "ingredients": "Arroz, caldo de pescado, mezcla de mariscos (calamar, pulpo, conchas, camarones), ajo, cebolla, ají amarillo y panca, vino blanco, culantro picado, arvejas, pimiento, sal y pimienta.",
+          "preparation": "Se hace un aderezo con cebolla, ajo y ajíes, se saltean los mariscos a fuego fuerte y se agrega el arroz con el caldo caliente. Se deja cocinar hasta que esté graneado pero jugoso, se termina con culantro, pimiento en tiras y unas gotas de limón.",
+          "historyCta": "Leer la historia del arroz con mariscos"
+        },
+        "causaLangostinos": {
+          "badge": "Entrada fría",
+          "name": "Causa de langostinos",
+          "tagline": "Capas de papa amarilla aliñada con relleno de langostinos, frescura y mucha textura.",
+          "ingredients": "Papa amarilla prensada, ají amarillo molido, aceite vegetal, jugo de limón, sal, langostinos cocidos, mayonesa, palta, huevo sancochado, lechuga y aceitunas para decorar.",
+          "preparation": "Se mezcla la papa prensada con ají amarillo, aceite, limón y sal hasta lograr una masa suave. Se arma en capas: base de papa, relleno de langostinos con mayonesa y palta, y otra capa de papa. Se decora con huevo, aceitunas y langostinos enteros.",
+          "historyCta": "Leer la historia de la causa"
+        },
+        "piscoSour": {
+          "badge": "Coctel bandera",
+          "name": "Pisco sour peruano",
+          "tagline": "Coctel a base de pisco, limón, jarabe de goma y clara de huevo, perfecto para empezar la noche.",
+          "ingredients": "Pisco quebranta u otra variedad peruana, jugo de limón fresco, jarabe de goma, clara de huevo y hielo. Se termina con unas gotas de amargo de angostura.",
+          "preparation": "En coctelera o licuadora se mezclan pisco, limón, jarabe de goma, clara de huevo y hielo. Se agita o licua hasta obtener una espuma firme y se sirve en vaso frío, decorando con unas gotas de amargo de angostura sobre la espuma.",
+          "historyCta": "Leer la historia del pisco sour"
+        },
+        "chichaMorada": {
+          "badge": "Bebida tradicional",
+          "name": "Chicha morada",
+          "tagline": "Refresco dulce y aromático a base de maíz morado, fruta y especias.",
+          "ingredients": "Maíz morado, piña (cáscara y corazón), manzana, canela, clavo de olor, azúcar o panela, jugo de limón y agua.",
+          "preparation": "Se hierve el maíz morado con la cáscara de piña, manzana, canela y clavo durante varios minutos. Se cuela, se deja enfriar y se endulza al gusto. Justo antes de servir se agrega jugo de limón para darle frescura.",
+          "historyCta": "Leer la historia de la chicha morada"
+        }
+      },
+      "recommendations": {
+        "title": "¿Dónde probar estos sabores en Lima?",
+        "subtitle": "Si quieres probar ceviche y otros platos de la costa en Lima, estos lugares son una buena referencia para empezar. Recuerda que también hay muchos huariques locales que Mily podrá recomendarte en persona.",
+        "viewOnMap": "Ver en mapa",
+        "items": {
+          "puntoAzul": {
+            "note": "Cevichería muy popular entre limeños, con raciones generosas y ambiente informal."
+          },
+          "laMar": {
+            "note": "Propuesta de Gastón Acurio, ideal si buscas una experiencia más gourmet y variedad de ceviches."
+          },
+          "mercado": {
+            "note": "Restaurante moderno donde el ceviche se presenta con toques creativos y mucho producto fresco."
+          },
+          "alFresco": {
+            "note": "Clásico frente al mar, perfecto para combinar ceviche con vista a la Costa Verde."
+          },
+          "huarique": {
+            "note": "Pequeños huariques barriales donde el ceviche es sencillo, directo y con sabor casero."
+          }
+        }
+      }
+    },
+    "sierra": {
+    "eyebrow": "Gastronomía – Sierra",
+    "title": "Sabores de la sierra peruana",
+    "intro": "Platos contundentes, sopas calientes y bebidas que nacen del frío de la sierra. Recetas con papa, maíz y carnes que han acompañado a las familias andinas por generaciones.",
+    "labels": {
+      "ingredients": "Ingredientes principales",
+      "preparation": "Preparación"
+    },
+    "buttons": {
+      "history": "Leer historia de este plato o bebida"
+    },
+    "dishes": {
+      "cuyChactado": {
+        "type": "Plato fuerte",
+        "name": "Cuy chactado",
+        "ingredients": "Cuy entero adobado, ajo, ají panca, sal, pimienta, comino y abundante aceite o grasa para freír.",
+        "preparation": "El cuy se adoba con ajos y ají, se aplasta ligeramente (chactar) y se fríe en abundante aceite o grasa hasta quedar muy crocante."
+      },
+      "pachamanca": {
+        "type": "Plato fuerte",
+        "name": "Pachamanca",
+        "ingredients": "Carnes variadas (pollo, cerdo, res, a veces cuy), papas, camote, habas, choclo, hierbas andinas como chincho y huacatay, sal y especias.",
+        "preparation": "Se calientan piedras en un hoyo, se acomodan carnes y tubérculos adobados, se cubre con hierbas y tierra y se deja cocinar al calor de las piedras por más de una hora."
+      },
+      "rocotoRelleno": {
+        "type": "Plato fuerte",
+        "name": "Rocoto relleno",
+        "ingredients": "Rocotos sin semillas, carne molida, maní, pasas, queso fresco, leche y especias.",
+        "preparation": "Los rocotos se blanquean para bajar el picor, se rellenan con un aderezo de carne y especias, se cubren con queso y se gratinan al horno."
+      },
+      "chicharronMote": {
+        "type": "Plato fuerte",
+        "name": "Chicharrón con mote",
+        "ingredients": "Carne de cerdo, sal, hierbas aromáticas y maíz pelado (mote) cocido.",
+        "preparation": "El cerdo se cocina en su propia grasa hasta quedar dorado, y se sirve acompañado de mote, papa y salsas criollas."
+      },
+      "truchaFrita": {
+        "type": "Plato fuerte",
+        "name": "Trucha frita",
+        "ingredients": "Trucha fresca, ajo, sal, pimienta, harina o maicena y aceite para freír.",
+        "preparation": "La trucha se sazona, se pasa ligeramente por harina y se fríe hasta quedar dorada por fuera y jugosa por dentro. Se acompaña con papas y ensalada."
+      },
+      "sopaMote": {
+        "type": "Sopa",
+        "name": "Sopa de mote",
+        "ingredients": "Maíz pelado (mote), carne de res o de cerdo, papa, hierbas y verduras.",
+        "preparation": "El mote se cocina lentamente junto con las carnes y verduras hasta obtener una sopa espesa y muy caliente, ideal para el frío andino."
+      },
+      "caldoCabeza": {
+        "type": "Sopa",
+        "name": "Caldo de cabeza",
+        "ingredients": "Cabeza de cordero o carnero, papa, hierbabuena, ajo, cebolla y especias.",
+        "preparation": "La cabeza se cocina por varias horas en una olla grande con papas y hierbas, logrando un caldo concentrado y muy reconfortante."
+      },
+      "patasca": {
+        "type": "Sopa",
+        "name": "Patasca",
+        "ingredients": "Maíz pelado (mote), carne de res o cerdo, mondongo, papa y hierbas.",
+        "preparation": "El maíz y las carnes se cocinan por largo tiempo hasta que todo queda muy suave; se sirve muy caliente, casi como un guiso espeso."
+      },
+      "quesoHelado": {
+        "type": "Postre",
+        "name": "Queso helado arequipeño",
+        "ingredients": "Leche, azúcar, yemas de huevo (a veces), canela, vainilla y coco rallado.",
+        "preparation": "La mezcla de leche y especias se congela en un cilindro metálico, raspando la superficie para obtener capas finas tipo raspadilla cremosa."
+      },
+      "calentito": {
+        "type": "Bebida caliente",
+        "name": "Calentito",
+        "ingredients": "Aguardiente o cañazo, té o hierbas, azúcar o miel y a veces jugo de limón.",
+        "preparation": "Se mezcla el licor con infusión caliente de hierbas y azúcar, sirviéndolo en vaso pequeño para combatir el frío de madrugada."
+      },
+      "chichaJora": {
+        "type": "Bebida fermentada",
+        "name": "Chicha de jora",
+        "ingredients": "Maíz jora (fermentado), agua y, según la zona, panela o frutas.",
+        "preparation": "El maíz se remoja, se cocina y se deja fermentar varios días. Se cuela y se sirve como bebida fresca ligeramente ácida y espumosa."
+      }
+    },
+    "places": {
+      "title": "¿Dónde probar estos sabores andinos en Lima?",
+      "intro": "Si quieres probar cuy, pachamanca u otros platos de la sierra sin salir de Lima, estos restaurantes son un buen punto de partida.",
+      "panchita": {
+        "name": "Panchita (Miraflores)",
+        "description": "Propuesta criolla con toques andinos donde puedes encontrar anticuchos, chicharrón y platos de la sierra bien presentados."
+      },
+      "elRocoto": {
+        "name": "El Rocoto (Miraflores / San Isidro)",
+        "description": "Clásico restaurante arequipeño en Lima, conocido por su rocoto relleno y chupe de camarones."
+      },
+      "laCusquenita": {
+        "name": "La Cusqueñita (Lince)",
+        "description": "Local con ambiente típico donde se sirven cuy chactado, chicharrón con mote, sopas y chicha de jora."
+      },
+      "huancahuasi": {
+        "name": "Huancahuasi (Ate / Los Olivos)",
+        "description": "Especializado en comida huancaína y pachamanca; ideal para probar platos de fiesta andina en familia."
+      },
+      "viewOnMap": "Ver en mapa",
+      "note": "Los horarios y cartas pueden cambiar; revisa la web o redes sociales de cada restaurante antes de ir."
     }
   },
-  "History": {
+  "selva": {
+    "eyebrow": "Gastronomía – Selva",
+    "title": "Sabores de la selva peruana",
+    "intro": "Platos envueltos en hojas, pescados de río, frutas exóticas y bebidas fermentadas. La cocina amazónica sorprende con sus aromas intensos y colores vibrantes.",
+    "labels": {
+      "ingredients": "Ingredientes principales",
+      "preparation": "Preparación"
+    },
+    "buttons": {
+      "history": "Leer historia de este plato o bebida"
+    },
+    "dishes": {
+      "juane": {
+        "type": "Plato fuerte",
+        "name": "Juane",
+        "ingredients": "Arroz, pollo, aceitunas, huevo duro, especias y hojas de bijao para envolver.",
+        "preparation": "Se mezcla el arroz con el pollo desmenuzado y especias, se envuelve en hojas de bijao formando un paquete y se hierve por varias horas hasta que todo quede compacto."
+      },
+      "patarashca": {
+        "type": "Plato fuerte",
+        "name": "Patarashca",
+        "ingredients": "Pescado de río (como paiche o doncella), ajo, culantro, ají charapita, sal y hojas de bijao.",
+        "preparation": "El pescado se sazona con ajo, culantro y ají, se envuelve en hojas de bijao y se asa a la parrilla o al carbón hasta que esté cocido y aromático."
+      },
+      "tacacho": {
+        "type": "Plato fuerte",
+        "name": "Tacacho con cecina",
+        "ingredients": "Plátano verde asado, manteca de cerdo, sal, cecina (carne de cerdo ahumada) y chorizo regional.",
+        "preparation": "El plátano se asa, se machaca con manteca y sal formando bolas, y se sirve acompañado de cecina y chorizo a la parrilla."
+      },
+      "suriFrito": {
+        "type": "Plato exótico",
+        "name": "Suri frito",
+        "ingredients": "Suris (larvas de escarabajo), sal, ajo y aceite para freír.",
+        "preparation": "Los suris se limpian, se sazonan con sal y ajo, y se fríen hasta quedar crujientes por fuera y cremosos por dentro."
+      },
+      "inchicapi": {
+        "type": "Sopa",
+        "name": "Inchicapi",
+        "ingredients": "Gallina de chacra, maní tostado y molido, yuca, culantro, ajo, comino y sal.",
+        "preparation": "La gallina se cocina con el maní molido hasta formar una sopa espesa y cremosa, se agrega yuca y culantro al final."
+      },
+      "chilicano": {
+        "type": "Sopa",
+        "name": "Chilicano",
+        "ingredients": "Pescado de río fresco, culantro, ajo, cebolla, ají charapita, limón y sal.",
+        "preparation": "Se hace un caldo ligero con el pescado, culantro, ajo y ají, se sirve bien caliente con limón recién exprimido."
+      },
+      "cecina": {
+        "type": "Plato fuerte",
+        "name": "Cecina amazónica",
+        "ingredients": "Carne de cerdo, sal gruesa, especias y tiempo de ahumado.",
+        "preparation": "La carne se sala abundantemente y se ahuma durante varios días, luego se asa a la parrilla hasta quedar dorada y aromática."
+      },
+      "timbuche": {
+        "type": "Sopa",
+        "name": "Timbuche",
+        "ingredients": "Pescado de río, huevos de pescado, culantro, cebolla, ají charapita y sal.",
+        "preparation": "Se cocina el pescado con sus huevos en agua con culantro y ají, formando una sopa simple pero muy nutritiva."
+      },
+      "cremoladaAguaje": {
+        "type": "Postre helado",
+        "name": "Cremolada de aguaje",
+        "ingredients": "Pulpa de aguaje, azúcar, agua y hielo.",
+        "preparation": "Se licua la pulpa de aguaje con azúcar y agua, se congela raspando constantemente para formar una textura cremosa tipo raspadilla."
+      },
+      "masato": {
+        "type": "Bebida fermentada",
+        "name": "Masato",
+        "ingredients": "Yuca cocida y masticada (o licuada), agua, azúcar y tiempo de fermentación.",
+        "preparation": "La yuca se cocina, se machaca o mastica, se mezcla con agua y azúcar y se deja fermentar por días hasta obtener una bebida ligeramente ácida."
+      },
+      "chapo": {
+        "type": "Bebida",
+        "name": "Chapo",
+        "ingredients": "Plátano maduro, agua, azúcar o panela y canela.",
+        "preparation": "El plátano maduro se cocina con agua y azúcar hasta formar una bebida espesa y dulce, se sirve fría o caliente."
+      },
+      "aguajina": {
+        "type": "Bebida",
+        "name": "Aguajina",
+        "ingredients": "Pulpa de aguaje, agua, azúcar y hielo.",
+        "preparation": "Se licua la pulpa de aguaje con agua y azúcar, se cuela y se sirve bien fría como refresco nutritivo."
+      }
+    },
+    "places": {
+      "title": "¿Dónde probar sabores amazónicos en Lima?",
+      "intro": "Si quieres probar juane, patarashca y otros platos de la selva sin salir de Lima, estos restaurantes son un buen punto de partida.",
+      "malabar": {
+        "name": "Malabar (San Isidro)",
+        "description": "Restaurante de alta cocina con propuestas amazónicas, ideal para conocer ingredientes de la selva con presentación gourmet."
+      },
+      "amaz": {
+        "name": "Amaz (Miraflores)",
+        "description": "Especializado en cocina amazónica contemporánea, con platos como patarashca, tacacho y bebidas exóticas."
+      },
+      "laPatarashca": {
+        "name": "La Patarashca (varios distritos)",
+        "description": "Cadena de cevicherías con fuerte presencia de pescados amazónicos y platos típicos de la selva."
+      },
+      "elRinconcito": {
+        "name": "El Rinconcito Amazónico (San Juan de Lurigancho)",
+        "description": "Restaurante popular donde se sirven juane, cecina, tacacho y otras preparaciones caseras de la selva."
+      },
+      "viewOnMap": "Ver en mapa",
+      "note": "Los horarios y cartas pueden cambiar; revisa la web o redes sociales de cada restaurante antes de ir."
+    }
+  }
+},
+"History": {
     "hero": {
       "eyebrow": "Raíces del Perú",
       "title": "Historia peruana contada por Mily",
       "subtitle": "Desde los incas hasta hoy: las historias que dan forma a este país.",
       "alt": "Historia y cultura del Perú"
+    },
+    "intro": {
+      "eyebrow": "Historia del Perú",
+      "title": "De las culturas preincaicas a la República",
+      "subtitle": "Un vistazo rápido a las grandes etapas de la historia del Perú. Haz clic en cada bloque para ir directo a la sección con más detalles.",
+      "periods": {
+        "preinca": {
+          "title": "Período preincaico",
+          "date": "Antes de 1200 d.C."
+        },
+        "inca": {
+          "title": "Imperio inca",
+          "date": "c. 1200 – 1532"
+        },
+        "virreinato": {
+          "title": "Virreinato del Perú",
+          "date": "1532 – 1821"
+        },
+        "republica": {
+          "title": "República",
+          "date": "Desde 1821"
+        }
+      }
+    },
+    "preinca": {
+      "eyebrow": "Etapa 1 – Período preincaico",
+      "title": "Antes de los incas: culturas que hicieron posible el Imperio",
+      "subtitle": "Mucho antes de que el Cusco fuera capital del Tahuantinsuyo ya existían ciudades, templos y maestros artesanos. Esta etapa reúne a las culturas que prepararon el camino para el desarrollo del mundo andino.",
+      "tags": {
+        "period": "Del 3000 a.C. aprox. hasta 1470 d.C.",
+        "focus": "Culturas regionales, templos, textiles y sistemas agrícolas"
+      },
+      "keyIdeas": {
+        "title": "¿Qué tienes que recordar?",
+        "lead": "Si tienes poco tiempo para explicar el período preincaico, quédate con estas ideas.",
+        "bullets": {
+          "one": "No había un solo imperio, sino muchas culturas regionales con estilos propios.",
+          "two": "Construyeron templos, pirámides y centros ceremoniales que organizaban la vida religiosa y política.",
+          "three": "Destacaron en textiles, cerámica y sistemas de riego que luego heredaron los incas."
+        }
+      },
+      "timeline": {
+        "title": "Línea de tiempo rápida",
+        "lead": "Cuatro momentos para ubicarte en el tiempo al hablar de los pueblos preincas.",
+        "items": {
+          "caral": {
+            "date": "c. 3000–1800 a.C.",
+            "label": "Caral",
+            "description": "Una de las ciudades más antiguas de América, con pirámides y plazas hundidas en el valle de Supe (Lima)."
+          },
+          "chavin": {
+            "date": "c. 900–200 a.C.",
+            "label": "Chavín",
+            "description": "Centro religioso de influencia andina; su arte en piedra y cerámica marcó a muchas otras culturas."
+          },
+          "nazcaMoche": {
+            "date": "c. 200 a.C.–600 d.C.",
+            "label": "Nazca y Moche",
+            "description": "Nazca destaca por sus geoglifos en el desierto; Moche por sus huacas y cerámica que narra escenas de la vida diaria."
+          },
+          "wariChimu": {
+            "date": "c. 600–1470 d.C.",
+            "label": "Wari y Chimú",
+            "description": "Wari desarrolla ciudades planificadas; Chimú construye Chan Chan, una enorme ciudad de adobe cerca de Trujillo."
+          }
+        }
+      },
+      "cultures": {
+        "title": "Culturas clave para recordar",
+        "lead": "No necesitas memorizar una lista interminable. Estas son las culturas que más suelen aparecer en museos, tours y conversaciones con viajeros.",
+        "items": {
+          "caral": {
+            "name": "Caral",
+            "region": "Valle de Supe (costa de Lima)",
+            "description": "Ciudad sagrada con pirámides, plazas circulares y un urbanismo muy temprano para América."
+          },
+          "chavin": {
+            "name": "Chavín",
+            "region": "Sierra norte (Áncash)",
+            "description": "Santuario religioso famoso por el Lanzón monolítico y galerías subterráneas."
+          },
+          "paracas": {
+            "name": "Paracas",
+            "region": "Costa sur (Ica)",
+            "description": "Conocida por sus fardos funerarios, textiles finísimos y las famosas deformaciones craneanas."
+          },
+          "nazca": {
+            "name": "Nazca",
+            "region": "Desierto de Ica",
+            "description": "Autora de las Líneas de Nazca, figuras gigantes trazadas sobre el desierto que se ven mejor desde el aire."
+          },
+          "moche": {
+            "name": "Moche",
+            "region": "Costa norte (La Libertad)",
+            "description": "Construyeron grandes huacas de adobe y una cerámica muy detallada que muestra su vida cotidiana y sus rituales."
+          },
+          "wari": {
+            "name": "Wari",
+            "region": "Sierra central (Ayacucho)",
+            "description": "Crearon ciudades planificadas y una red de caminos que luego influiría en la organización inca."
+          },
+          "chimu": {
+            "name": "Chimú",
+            "region": "Costa norte (La Libertad)",
+            "description": "Su capital, Chan Chan, es una de las ciudades de adobe más grandes del mundo."
+          }
+        }
+      },
+      "life": {
+        "title": "¿Cómo era la vida en tiempos preincas?",
+        "society": {
+          "title": "Sociedad",
+          "text": "La población vivía en aldeas y centros ceremoniales. Había élites religiosas y políticas que organizaban el trabajo y los rituales, además de artesanos especializados en cerámica y textiles."
+        },
+        "economy": {
+          "title": "Economía",
+          "text": "La base era la agricultura en valles y oasis, apoyada por canales de riego. Se combinaba con pesca en la costa e intercambio entre costa, sierra y selva usando rutas antiguas."
+        },
+        "religion": {
+          "title": "Religión y cosmovisión",
+          "text": "Rendían culto a fuerzas de la naturaleza como el mar, las montañas y los astros. Construían templos y huacas donde realizaban ofrendas, sacrificios y festividades."
+        }
+      },
+      "sites": {
+        "title": "Lugares para ver hoy el mundo preinca",
+        "lead": "Si quieres conectar esta historia con lugares reales, estos sitios son una buena base para tu recorrido o explicación.",
+        "buttons": {
+          "map": "Ver en el mapa",
+          "destinations": "Ver en Destinos"
+        },
+        "items": {
+          "caral": {
+            "name": "Ciudad Sagrada de Caral",
+            "region": "Valle de Supe, norte de Lima",
+            "description": "Complejo arqueológico con pirámides y plazas hundidas, ideal para hablar de los orígenes de la ciudad en América.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#sur-chico"
+          },
+          "paracas": {
+            "name": "Paracas – Necrópolis y textiles",
+            "region": "Reserva Nacional de Paracas (Ica)",
+            "description": "Museos y zonas arqueológicas donde se exhiben fardos funerarios y textiles de gran detalle.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#sur-chico"
+          },
+          "nazca": {
+            "name": "Líneas de Nazca",
+            "region": "Desierto de Nazca (Ica)",
+            "description": "Geoglifos que se sobrevuelan en avioneta; un punto fuerte para hablar de simbolismo y astronomía andina.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#sur-chico"
+          },
+          "museoLarco": {
+            "name": "Museo Larco",
+            "region": "Distrito de Pueblo Libre, Lima",
+            "description": "Colección muy completa de cerámica y textiles de varias culturas preincas, perfecta para una vista general.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#museos-lima"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips para contar esta etapa",
+        "lead": "Pensado para guías y viajeros curiosos que quieren explicar la historia sin abrumar.",
+        "groups": {
+          "storyIdeas": "Ideas para tu relato",
+          "curiosities": "Datos curiosos"
+        },
+        "items": {
+          "ideaStory1": "Compara Caral con otras civilizaciones del mundo que existían en fechas similares (Egipto, Mesopotamia) para que el visitante entienda su antigüedad.",
+          "ideaStory2": "Al hablar de Paracas y Nazca, relaciona los diseños textiles y los geoglifos con patrones que aún se usan en artesanías y moda peruana.",
+          "curiosity1": "Algunas huacas siguieron siendo lugares de culto incluso cuando los incas llegaron y después, en época colonial.",
+          "curiosity2": "Muchas rutas de intercambio preincas se aprovecharon más tarde para construir los caminos del Tahuantinsuyo."
+        },
+        "footer": "Usa estas ideas como guía, no como guion rígido. Adáptalas a tu estilo y al tiempo disponible."
+      }
+    },
+    "inca": {
+      "eyebrow": "Etapa 2 – Mundo inca",
+      "title": "El Tahuantinsuyo: el imperio de los cuatro suyos",
+      "subtitle": "En poco más de un siglo los incas pasaron de ser un pequeño reino en el Cusco a gobernar un territorio que iba de Colombia a Chile. Aquí tienes una versión clara de cómo funcionaba ese imperio.",
+      "tags": {
+        "period": "Del siglo XIII al XVI d.C.",
+        "focus": "Expansión, organización del Estado y grandes obras"
+      },
+      "keyIdeas": {
+        "title": "¿Qué es lo esencial?",
+        "lead": "Cuando expliques el período inca, intenta volver siempre a estas tres ideas.",
+        "bullets": {
+          "one": "Los incas no aparecen de la nada: heredan conocimientos de muchas culturas preincas.",
+          "two": "Organizan un Estado muy centralizado con capital en el Cusco y un sistema de trabajo obligatorio llamado mita.",
+          "three": "Construyen caminos, terrazas agrícolas y ciudades de piedra que hoy son símbolos del Perú, como Machu Picchu."
+        }
+      },
+      "timeline": {
+        "title": "Línea de tiempo rápida",
+        "lead": "Cuatro momentos para ubicar el ascenso y caída del Tahuantinsuyo.",
+        "items": {
+          "origins": {
+            "date": "c. 1200–1438 d.C.",
+            "label": "Reinos del Cusco",
+            "description": "Pequeños señoríos en el valle del Cusco consolidan poco a poco su poder antes del gran despegue imperial."
+          },
+          "pachacutec": {
+            "date": "1438–1471",
+            "label": "Gobierno de Pachacútec",
+            "description": "Reorganiza el Cusco, impulsa la expansión y se asocia a la construcción de Machu Picchu."
+          },
+          "expansion": {
+            "date": "1471–1527",
+            "label": "Mayor expansión",
+            "description": "Bajo Túpac Yupanqui y Huayna Cápac el imperio se extiende desde Pasto (Colombia) hasta el centro de Chile."
+          },
+          "crisis": {
+            "date": "1527–1533",
+            "label": "Guerra civil y conquista",
+            "description": "La muerte de Huayna Cápac provoca una guerra entre Huáscar y Atahualpa, que debilita al imperio cuando llegan los españoles."
+          }
+        }
+      },
+      "structure": {
+        "title": "Cómo funcionaba el Tahuantinsuyo",
+        "lead": "Una explicación corta de la estructura del imperio que puedes adaptar a cualquier grupo.",
+        "items": {
+          "territory": {
+            "title": "Territorio y suyos",
+            "text": "El Tahuantinsuyo se dividía en cuatro regiones o suyos (Chinchaysuyo, Antisuyo, Collasuyo y Contisuyo) conectadas por caminos y administradas desde el Cusco."
+          },
+          "government": {
+            "title": "Gobierno y mita",
+            "text": "El Inca era la máxima autoridad apoyado por una nobleza cusqueña. Los pueblos conquistados debían entregar tributo en trabajo (mita) para construir caminos, andenes, templos y almacenar alimentos."
+          },
+          "roads": {
+            "title": "Caminos y quipus",
+            "text": "El Qhapaq Ñan era una gran red de caminos que unía montañas, costa y selva. Los chasquis corrían llevando mensajes, y los quipus servían como sistema de registro para censos, tributos y almacenes."
+          },
+          "religion": {
+            "title": "Religión y símbolos",
+            "text": "El sol (Inti) era la deidad principal, pero también se veneraban huacas locales, montañas y la Pachamama. Los incas respetaban muchos cultos previos y los integraban en su sistema."
+          }
+        }
+      },
+      "life": {
+        "title": "Vida cotidiana en tiempos incas",
+        "people": {
+          "title": "Las personas",
+          "text": "La mayoría de la población vivía en ayllus, comunidades que compartían tierras y trabajo. La identidad local convivía con la idea de pertenecer al Tahuantinsuyo."
+        },
+        "work": {
+          "title": "Trabajo y agricultura",
+          "text": "Los andenes y canales permitían cultivar en laderas empinadas. Se trabajaba por turnos: parte del tiempo para la comunidad, parte para el Estado y parte para los templos."
+        },
+        "festivals": {
+          "title": "Fiestas y rituales",
+          "text": "Grandes ceremonias como el Inti Raymi marcaban el calendario agrícola. Se realizaban ofrendas, danzas y banquetes para reforzar la lealtad al Inca y a las huacas."
+        }
+      },
+      "sites": {
+        "title": "Lugares donde el mundo inca sigue vivo",
+        "lead": "Estos sitios son excelentes excusas para hablar del Tahuantinsuyo durante un tour.",
+        "buttons": {
+          "map": "Ver en el mapa",
+          "destinations": "Ver en Destinos"
+        },
+        "items": {
+          "machuPicchu": {
+            "name": "Machu Picchu",
+            "region": "Valle del Urubamba, Cusco",
+            "description": "Ciudad inca en la montaña, con sectores agrícolas y urbanos. Ideal para explicar la arquitectura inca y la relación con el paisaje.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#cusco"
+          },
+          "sacsayhuaman": {
+            "name": "Sacsayhuamán",
+            "region": "Parte alta del Cusco",
+            "description": "Fortaleza ceremonial con enormes bloques de piedra encajados con precisión, perfecta para hablar de ingeniería y defensa.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#cusco"
+          },
+          "qorikancha": {
+            "name": "Qorikancha",
+            "region": "Centro histórico del Cusco",
+            "description": "Antiguo templo principal del sol, sobre el que se construyó el convento de Santo Domingo. Muestra claramente el choque entre mundo inca y colonial.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#cusco"
+          },
+          "ollantaytambo": {
+            "name": "Ollantaytambo",
+            "region": "Valle Sagrado de los Incas",
+            "description": "Pueblo vivo con trazado urbano inca, andenes y recinto ceremonial. Permite mostrar cómo se organizaban las ciudades y los depósitos.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#cusco"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips para explicar el mundo inca",
+        "lead": "Úsalos para adaptar tu explicación al tiempo y al tipo de grupo que tengas.",
+        "groups": {
+          "storyIdeas": "Ideas de relato",
+          "curiosities": "Datos curiosos"
+        },
+        "items": {
+          "ideaStory1": "Empieza desde lo visual: pide al grupo que observe los andenes o muros de piedra y, a partir de eso, explica cómo se organizaba el trabajo y la mita.",
+          "ideaStory2": "Relaciona el Qhapaq Ñan con las carreteras modernas o con rutas de trekking actuales (Camino Inca) para que el visitante dimensione su escala.",
+          "curiosity1": "Los incas integraban las huacas locales de cada pueblo en su sistema religioso en lugar de destruirlas, ganando así aliados.",
+          "curiosity2": "En muchas ciudades coloniales, como Cusco, las bases de los edificios siguen siendo muros incas sobre los que se levantaron casas e iglesias."
+        },
+        "footer": "No necesitas contarlo todo en un solo tour. Elige 2 o 3 ideas y repítelas a lo largo del recorrido."
+      }
+    },
+    "virreinato": {
+      "eyebrow": "Etapa 3 – Virreinato del Perú",
+      "title": "El Virreinato del Perú: riqueza, control y mezcla cultural",
+      "subtitle": "Durante casi 300 años el Virreinato del Perú fue el centro del poder español en Sudamérica. En esta etapa puedes explicar la minería, la sociedad de castas, la Iglesia y el origen de muchas ciudades coloniales.",
+      "tags": {
+        "period": "De 1542 a 1821",
+        "focus": "Minería, ciudades coloniales y sociedad de castas"
+      },
+      "keyIdeas": {
+        "title": "¿Qué es lo esencial?",
+        "lead": "Si tienes poco tiempo, quédate con estas tres ideas clave del Virreinato.",
+        "bullets": {
+          "one": "Lima se convierte en la capital política y administrativa más importante de Sudamérica.",
+          "two": "La economía se organiza en torno a la minería de plata, especialmente Potosí, y al trabajo forzado de indígenas y esclavos africanos.",
+          "three": "Se forma una sociedad de castas con fuertes jerarquías, pero también con mucha mezcla cultural que dará origen al Perú actual."
+        }
+      },
+      "timeline": {
+        "title": "Línea de tiempo rápida",
+        "lead": "Cuatro momentos que te ayudan a ubicar la historia del Virreinato.",
+        "items": {
+          "conquest": {
+            "date": "1532–1533",
+            "label": "Conquista del Imperio inca",
+            "description": "Captura de Atahualpa y entrada de los españoles al Cusco. El mundo andino cambia para siempre."
+          },
+          "limaCapital": {
+            "date": "1542",
+            "label": "Creación del Virreinato del Perú",
+            "description": "La Corona española crea el Virreinato con capital en la Ciudad de los Reyes (Lima)."
+          },
+          "borbonReforms": {
+            "date": "Siglo XVIII",
+            "label": "Reformas borbónicas",
+            "description": "Nuevas reglas para aumentar el control y los impuestos. Crecen las tensiones entre la Corona y las élites locales."
+          },
+          "independenceMovements": {
+            "date": "1780–1821",
+            "label": "Rebeliones e independencia",
+            "description": "Rebelión de Túpac Amaru II y otros movimientos que preparan el camino para la independencia del Perú."
+          }
+        }
+      },
+      "structure": {
+        "title": "Cómo funcionaba el Virreinato",
+        "lead": "Una explicación sencilla que puedes ir ampliando según el interés del grupo.",
+        "items": {
+          "power": {
+            "title": "Poder y autoridades",
+            "text": "El Rey de España era la autoridad máxima. En América gobernaba el virrey, apoyado por audiencias, corregidores y cabildos. En la práctica, las élites locales también tenían mucho poder."
+          },
+          "economy": {
+            "title": "Economía minera",
+            "text": "La plata de Potosí y otras minas financiaba al imperio español. Se usaban sistemas de trabajo forzado como la mita minera, que afectó a miles de indígenas."
+          },
+          "society": {
+            "title": "Sociedad de castas",
+            "text": "La población se clasificaba según origen: españoles peninsulares, criollos, indígenas, africanos esclavizados y mestizos. En la vida real, la mezcla cultural fue mucho más compleja que cualquier lista."
+          },
+          "church": {
+            "title": "Iglesia y control cultural",
+            "text": "La Iglesia católica evangelizaba, educaba y también vigilaba ideas consideradas peligrosas. A la vez, muchas fiestas y devociones mezclaron tradiciones indígenas, africanas y europeas."
+          }
+        }
+      },
+      "life": {
+        "title": "Vida cotidiana en el Virreinato",
+        "city": {
+          "title": "Ciudades y plazas",
+          "text": "En ciudades como Lima, las plazas mayores eran el centro del poder: allí estaban la catedral, el palacio de gobierno y las casas de las familias más importantes."
+        },
+        "countryside": {
+          "title": "Campo y haciendas",
+          "text": "En el campo se desarrollaron haciendas agrícolas y ganaderas. Muchos indígenas trabajaban allí bajo distintas formas de dependencia."
+        },
+        "mixing": {
+          "title": "Mezcla cultural",
+          "text": "La cocina, la música, la lengua y las fiestas fueron mezclando influencias indígenas, africanas y europeas. De ese proceso nacen muchas expresiones que hoy consideramos \"típicas\" del Perú."
+        }
+      },
+      "sites": {
+        "title": "Lima colonial que puedes mostrar en tus tours",
+        "lead": "Estos lugares del Centro Histórico de Lima son perfectos para explicar el Virreinato mientras caminas con tu grupo.",
+        "buttons": {
+          "map": "Ver en el mapa",
+          "destinations": "Ver en Destinos"
+        },
+        "items": {
+          "plazaArmasLima": {
+            "name": "Plaza Mayor de Lima",
+            "location": "Centro Histórico de Lima",
+            "description": "Escenario del poder político y religioso: aquí estuvieron el primer palacio de gobierno, la catedral y varias casas de familias influyentes.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#lima-centro"
+          },
+          "catedralLima": {
+            "name": "Catedral de Lima",
+            "location": "Lado este de la Plaza Mayor",
+            "description": "Templo principal de la ciudad virreinal. Ideal para hablar del papel de la Iglesia y de los cambios arquitectónicos a lo largo de los siglos.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#lima-centro"
+          },
+          "casaAliaga": {
+            "name": "Casa Aliaga",
+            "location": "Frente al Palacio de Gobierno",
+            "description": "Mansión colonial ligada a la misma familia desde el siglo XVI. Un lugar perfecto para hablar de élites, vida doméstica y continuidad en la historia de Lima.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#lima-centro"
+          },
+          "sanFrancisco": {
+            "name": "Convento de San Francisco y catacumbas",
+            "location": "Cerca de la Plaza Mayor",
+            "description": "Complejo religioso famoso por sus claustros y catacumbas. Permite explicar el papel de las órdenes religiosas y la espiritualidad en la época colonial.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#lima-centro"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips para explicar el Virreinato en tus tours",
+        "lead": "Usa estos recursos para que la historia colonial se sienta cercana y no como una lista de fechas.",
+        "groups": {
+          "storyIdeas": "Ideas de relato",
+          "curiosities": "Datos curiosos"
+        },
+        "items": {
+          "ideaStory1": "Empieza desde la plaza: muestra cómo en un solo espacio conviven el poder político (palacio), religioso (catedral) y económico (casas de comerciantes).",
+          "ideaStory2": "Conecta el Virreinato con la actualidad: pregunta qué apellidos, iglesias o platos típicos vienen de esa mezcla colonial.",
+          "curiosity1": "Lima fue tan importante que durante siglos controló territorios que hoy pertenecen a varios países sudamericanos.",
+          "curiosity2": "Muchas imágenes y santos \"milagrosos\" combinan elementos europeos con devociones andinas y africanas."
+        },
+        "footer": "Adapta la cantidad de detalles al tiempo disponible y al interés del grupo. No todo tour necesita la misma profundidad."
+      }
+    },
+    "republica": {
+      "eyebrow": "Etapa 4 – República del Perú",
+      "title": "República del Perú: crisis, cambios y construcción de identidad",
+      "subtitle": "Desde la independencia hasta hoy, el Perú ha pasado por guerras, crisis económicas, migraciones internas y mucha creatividad. En esta etapa puedes conectar la historia con la Lima moderna que ven los viajeros.",
+      "tags": {
+        "period": "Desde 1821 hasta la actualidad",
+        "focus": "Independencia, modernización y Perú contemporáneo"
+      },
+      "keyIdeas": {
+        "title": "¿Qué es lo más importante?",
+        "lead": "Para una explicación sencilla de la República, estas tres ideas suelen ser suficientes.",
+        "bullets": {
+          "one": "La independencia no resolvió todos los problemas: el nuevo Estado tuvo décadas de inestabilidad y caudillos militares.",
+          "two": "La economía se basó en ciclos de exportación (guano, salitre, minerales) que dieron momentos de riqueza y también grandes crisis.",
+          "three": "El Perú moderno se construye con migraciones internas, mezcla cultural y una búsqueda constante de identidad compartida."
+        }
+      },
+      "timeline": {
+        "title": "Línea de tiempo rápida",
+        "lead": "Cuatro momentos para ordenar la etapa republicana sin abrumar al grupo.",
+        "items": {
+          "independence": {
+            "date": "1821–1824",
+            "label": "Independencia del Perú",
+            "description": "Proclamación de San Martín en Lima y, más tarde, campañas militares de Bolívar y Sucre que aseguran la independencia."
+          },
+          "earlyRepublic": {
+            "date": "Siglo XIX temprano",
+            "label": "Primeros años de la República",
+            "description": "Gobiernos inestables, caudillos militares y dificultades para organizar un Estado fuerte y con presencia en todo el territorio."
+          },
+          "exportCycles": {
+            "date": "Siglo XIX – inicios del XX",
+            "label": "Ciclos de exportación",
+            "description": "Etapas de riqueza por el guano, el salitre y otros productos, seguidas de crisis, deudas y conflictos como la Guerra del Pacífico."
+          },
+          "modernPeru": {
+            "date": "Siglo XX – hoy",
+            "label": "Perú contemporáneo",
+            "description": "Migraciones del campo a la ciudad, conflictos internos, nuevas constituciones y una vida urbana que sigue cambiando."
+          }
+        }
+      },
+      "structure": {
+        "title": "Cómo entender la República en pocas ideas",
+        "lead": "No necesitas explicar todos los presidentes; es mejor concentrarte en estos ejes.",
+        "items": {
+          "state": {
+            "title": "Estado y política",
+            "text": "La República intenta construir instituciones propias: constituciones, Congreso, partidos. Hay épocas de democracia y también de golpes de Estado y gobiernos autoritarios."
+          },
+          "economy": {
+            "title": "Economía y modelos",
+            "text": "El país pasa por modelos distintos: exportación de materias primas, intentos de industrialización, reformas agrarias y, más adelante, apertura económica."
+          },
+          "society": {
+            "title": "Sociedad y desigualdad",
+            "text": "Persisten las desigualdades entre costa, sierra y selva, pero también crecen las clases medias, la educación y la participación de más grupos en la vida pública."
+          },
+          "conflicts": {
+            "title": "Conflictos y memoria",
+            "text": "Guerras externas (como la del Pacífico) y conflictos internos del siglo XX dejan heridas profundas. Hoy se discute cómo recordarlos y qué cambios se necesitan."
+          }
+        }
+      },
+      "life": {
+        "title": "Vida cotidiana en la etapa republicana",
+        "city": {
+          "title": "Lima y la ciudad moderna",
+          "text": "Lima se expande con barrios nuevos, transporte, parques y centros comerciales. Es el escenario perfecto para hablar del Perú actual que ven los visitantes."
+        },
+        "regions": {
+          "title": "Costa, sierra y selva hoy",
+          "text": "Cada región aporta tradiciones, acentos, comidas y fiestas distintas. Muchas personas migran entre regiones buscando trabajo y oportunidades."
+        },
+        "identity": {
+          "title": "Identidad peruana",
+          "text": "Cocina, fútbol, música, danzas y fiestas ayudan a crear una identidad común, aunque las discusiones sobre racismo, centralismo y representación siguen abiertas."
+        }
+      },
+      "sites": {
+        "title": "Lugares para hablar de la República en Lima",
+        "lead": "Estos puntos en la ciudad te ayudan a conectar la historia republicana con lo que el grupo está viendo hoy.",
+        "buttons": {
+          "map": "Ver en el mapa",
+          "destinations": "Ver en Destinos"
+        },
+        "items": {
+          "plazaSanMartin": {
+            "name": "Plaza San Martín",
+            "location": "Centro de Lima",
+            "description": "Plaza construida para celebrar el centenario de la independencia. Ideal para hablar de héroes, monumentos y memoria histórica.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#lima-centro"
+          },
+          "parqueReserva": {
+            "name": "Parque de la Reserva – Circuito Mágico del Agua",
+            "location": "Cercado de Lima",
+            "description": "Parque de inicios del siglo XX adaptado hoy con fuentes danzantes y espectáculo nocturno. Un buen ejemplo de cómo la ciudad se reinventa.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#circuito-magico"
+          },
+          "mirafloresMalecon": {
+            "name": "Malecón y parques de Miraflores",
+            "location": "Costa de Miraflores",
+            "description": "Parques junto al acantilado, ciclovías y vistas al Pacífico. Perfectos para hablar del turismo, la vida urbana y la Lima contemporánea.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/destinos#miraflores"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips para explicar la República sin hacer un discurso político",
+        "lead": "La idea no es dar tu opinión, sino ayudar a entender el contexto y la diversidad del Perú actual.",
+        "groups": {
+          "storyIdeas": "Ideas de relato",
+          "curiosities": "Datos curiosos"
+        },
+        "items": {
+          "ideaStory1": "Conecta un lugar concreto con un cambio histórico: por ejemplo, Plaza San Martín con la independencia y los aniversarios nacionales.",
+          "ideaStory2": "Pregunta al grupo qué les sorprende de Lima moderna y úsalo como punto de partida para hablar de migraciones, barrios nuevos y mezcla cultural.",
+          "curiosity1": "En Lima viven personas nacidas en todas las regiones del país; muchas costumbres regionales ahora se encuentran en la capital.",
+          "curiosity2": "Varios platos \"clásicos\" de la comida peruana, como el lomo saltado o el pollo a la brasa, son creaciones republicanas que mezclan influencias de distintos orígenes."
+        },
+        "footer": "Cuida el tono: sé claro con los hechos históricos, evita discursos partidarios y deja espacio para que el grupo saque sus propias conclusiones."
+      }
     }
-  },
-  "Contact": {
+},
+"Contact": {
     "hero": {
       "eyebrow": "Hablemos",
       "title": "¿Tienes preguntas sobre Perú?",
       "subtitle": "Escríbele a Mily y te ayuda a planear tu viaje.",
       "alt": "Contacto con Mily"
+    },
+    "profile": {
+      "eyebrow": "SOBRE MILY",
+      "title": "Tu guía local en Perú",
+      "intro": "Mily es guía de turismo y creadora de este blog, apasionada por mostrar el Perú de una forma clara, cercana y auténtica.",
+
+      "experience": {
+        "title": "Experiencia",
+        "text": "Guía oficial de turismo con experiencia acompañando viajeros nacionales y extranjeros en Lima y el sur del Perú."
+      },
+
+      "places": {
+        "title": "Lugares que conoce",
+        "text": "Lima, Ica, Paracas, Huacachina, Nazca y principales destinos culturales y gastronómicos del país."
+      },
+
+      "languages": {
+        "title": "Idiomas",
+        "text": "Español (nativo) e inglés, ideal para viajeros internacionales que buscan una experiencia sin barreras."
+      }
     }
-  }
+}
 }

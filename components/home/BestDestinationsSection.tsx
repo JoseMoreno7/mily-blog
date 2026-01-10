@@ -33,7 +33,7 @@ const destinations: Destination[] = [
   {
     id: "circuitoMagico",
     slug: "circuito-magico",
-    image: "/img/dest-circuito-agua.jpg",
+    image: "/img/dest-circuito-agua-2.jpg",
   },
   {
     id: "paracasHuacachina",
@@ -98,7 +98,8 @@ export default function BestDestinationsSection() {
                 {t(`destinations.${dest.id}.description`)}
               </p>
               <Link
-                href="/destinos"
+                href={{ pathname: "/destinos", hash: dest.slug }}
+                scroll={true}
                 className="mt-2 text-sm font-semibold text-rose-600 underline-offset-4 hover:text-rose-700 hover:underline"
               >
                 {t("cta")}

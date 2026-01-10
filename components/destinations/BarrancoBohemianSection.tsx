@@ -13,44 +13,45 @@ type Place = {
 
 const PLACES: Place[] = [
   {
-    id: "hotelBolivar",
-    image: "/img/dest-lima-hotel-bolivar.jpg",
-    mapUrl: "https://maps.app.goo.gl/XXXXXXXX", // TODO: pon aquí tu link real
-  },
-  {
-    id: "plazaSanMartin",
-    image: "/img/dest-lima-plaza-san-martin.jpg",
+    id: "parqueVillarreal",
+    image: "/img/dest-barranco-parque-villarreal.jpg", // ajusta el nombre al que uses
     mapUrl: "https://maps.app.goo.gl/XXXXXXXX",
   },
   {
-    id: "jironUnion",
-    image: "/img/dest-lima-jiron-union.jpg",
+    id: "monumentoChabuca",
+    image: "/img/dest-barranco-chabuca.jpg",
     mapUrl: "https://maps.app.goo.gl/XXXXXXXX",
   },
   {
-    id: "plazaArmas",
-    image: "/img/dest-lima-plaza-armas-1.jpg",
+    id: "puenteSuspiros",
+    image: "/img/dest-barranco-puente-suspiros.jpg",
     mapUrl: "https://maps.app.goo.gl/XXXXXXXX",
   },
   {
-    id: "catedralLima",
-    image: "/img/dest-lima-catedral.jpg",
+    id: "bajadaBanos",
+    image: "/img/dest-barranco-bajada-banos.jpg",
     mapUrl: "https://maps.app.goo.gl/XXXXXXXX",
   },
   {
-    id: "palacioGobierno",
-    image: "/img/dest-lima-palacio-gobierno.jpg",
+    id: "miradorRecavarren",
+    image: "/img/dest-barranco-mirador-recavarren.jpeg",
+    mapUrl: "https://maps.app.goo.gl/XXXXXXXX",
+  },
+  {
+    id: "parqueMunicipal",
+    image: "/img/dest-barranco-parque-municipal.aspx",
     mapUrl: "https://maps.app.goo.gl/XXXXXXXX",
   },
 ];
 
-export default function LimaHistoricCenterSection() {
-  const t = useTranslations("Destinations.limaHistoric");
+export default function BarrancoBohemianSection() {
+  const t = useTranslations("Destinations.barranco");
 
   return (
     <section
-      id="lima-centro"
-      className="bg-white py-16 scroll-mt-28 md:scroll-mt-32">
+      id="barranco"
+      className="bg-rose-50/40 py-16 scroll-mt-28 md:scroll-mt-32"
+    >
       {/* Cabecera de la sección */}
       <div className="mx-auto max-w-6xl px-4 text-center">
         <p className="text-xs font-semibold uppercase tracking-[0.25em] text-rose-500">
@@ -70,15 +71,15 @@ export default function LimaHistoricCenterSection() {
         </p>
       </div>
 
-      {/* Lista de paradas (itinerario) */}
+      {/* Lista de paradas – imagen a la derecha en desktop */}
       <div className="mx-auto mt-10 max-w-6xl space-y-8 px-4">
         {PLACES.map((place, index) => (
           <article
             key={place.id}
-            className="flex flex-col gap-5 rounded-2xl border border-zinc-100 bg-white shadow-sm md:flex-row md:items-stretch"
+            className="flex flex-col gap-5 rounded-2xl border border-rose-100 bg-white shadow-sm md:flex-row-reverse md:items-stretch"
           >
-            {/* Imagen */}
-            <div className="relative h-52 w-full overflow-hidden rounded-t-2xl md:h-auto md:w-2/5 md:rounded-l-2xl md:rounded-tr-none">
+            {/* Imagen (derecha en desktop) */}
+            <div className="relative h-52 w-full overflow-hidden rounded-t-2xl md:h-auto md:w-2/5 md:rounded-r-2xl md:rounded-tl-none">
               <Image
                 src={place.image}
                 alt={t(`places.${place.id}.name`)}
@@ -103,7 +104,7 @@ export default function LimaHistoricCenterSection() {
                   {t(`places.${place.id}.description`)}
                 </p>
 
-                {/* Detalles rápidos: horario + precio */}
+                {/* Detalles rápidos */}
                 <dl className="mt-3 grid gap-3 text-xs text-zinc-600 md:grid-cols-2 md:text-sm">
                   <div className="flex items-start gap-2">
                     <Clock className="mt-[2px] h-4 w-4 text-rose-500" />

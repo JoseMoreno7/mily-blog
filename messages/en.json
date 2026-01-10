@@ -117,24 +117,24 @@
   },
   "Destinations": {
     "intro": {
-    "eyebrow": "Before choosing your route",
-    "title": "Where to start discovering Peru?",
-    "description": "This blog is not an endless list of places, but a curated selection of routes that Mily knows well, has guided and truly recommends for a first trip to Peru.",
-    "cards": {
-      "lima": {
-        "title": "Lima: your natural starting point",
-        "text": "Historic center, bohemian districts and ocean views. Perfect to feel the mix of colonial and modern Peru."
-      },
-      "surChico": {
-        "title": "Sur chico: sea, desert and adventure",
-        "text": "Paracas, Ballestas Islands and Huacachina in one classic full day for wildlife, dunes and oasis lovers."
-      },
-      "icaNazca": {
-        "title": "Ica & Nazca: wine, pisco and mysteries",
-        "text": "Wineries, tastings and the enigmatic Nazca Lines if you want to go a bit further from Lima."
+      "eyebrow": "Before choosing your route",
+      "title": "Where to start discovering Peru?",
+      "description": "This blog is not an endless list of places, but a curated selection of routes that Mily knows well, has guided and truly recommends for a first trip to Peru.",
+      "cards": {
+        "lima": {
+          "title": "Lima: your natural starting point",
+          "text": "Historic center, bohemian districts and ocean views. Perfect to feel the mix of colonial and modern Peru."
+        },
+        "surChico": {
+          "title": "Sur chico: sea, desert and adventure",
+          "text": "Paracas, Ballestas Islands and Huacachina in one classic full day for wildlife, dunes and oasis lovers."
+        },
+        "icaNazca": {
+          "title": "Ica & Nazca: wine, pisco and mysteries",
+          "text": "Wineries, tastings and the enigmatic Nazca Lines if you want to go a bit further from Lima."
+        }
       }
-    }
-  },
+    },
     "hero": {
       "eyebrow": "Travel guides",
       "title": "Peruvian destinations Mily really knows",
@@ -192,6 +192,254 @@
           "price": "Seeing the facade and square is free."
         }
       }
+    },
+    "mirafloresCoast": {
+      "eyebrow": "Lima – Miraflores coastline",
+      "title": "A walk through Miraflores viewpoints",
+      "intro": "An easy route along the Miraflores cliff walk: ocean viewpoints, parks, romantic spots and an open-air mall with views over the Costa Verde.",
+      "stopLabel": "Stop {number}",
+      "labels": {
+        "schedule": "Suggested time",
+        "price": "Entrance"
+      },
+      "buttons": {
+        "map": "Open in Maps",
+        "history": "See related history"
+      },
+      "places": {
+        "parqueMariaReiche": {
+          "name": "María Reiche Park",
+          "description": "Park overlooking the Costa Verde dedicated to María Reiche, the researcher of the Nazca Lines. There are small models of the figures and several viewpoints.",
+          "schedule": "Morning or afternoon, with good light to see the models and the cliffs.",
+          "price": "Free entrance."
+        },
+        "parqueChino": {
+          "name": "Chinese Park",
+          "description": "Small themed park with a pagoda, Chinese-inspired details and a different angle of the Miraflores seafront.",
+          "schedule": "Afternoon, great for photos with soft light.",
+          "price": "Free entrance."
+        },
+        "parqueAmor": {
+          "name": "Parque del Amor (Love Park)",
+          "description": "One of Miraflores’ most iconic spots. The sculpture “El Beso” and the mosaic benches are perfect for watching the sunset over the Pacific Ocean.",
+          "schedule": "Sunset time to enjoy the view and take photos.",
+          "price": "Free entrance."
+        },
+        "parqueIntihuatana": {
+          "name": "Intihuatana Park",
+          "description": "Park with a sun-clock inspired by Andean cultures and a wide view over the Miraflores cliffs.",
+          "schedule": "Afternoon, while there is still sun to see the clock and the coastline.",
+          "price": "Free entrance."
+        },
+        "larcomar": {
+          "name": "Larcomar Mall",
+          "description": "Open-air shopping center built on the cliffs. Stores, restaurants and terraces with views over the Costa Verde.",
+          "schedule": "Late afternoon and evening. You can combine shopping, dinner and night views.",
+          "price": "Free entrance; you only pay for what you consume."
+        },
+        "puenteVillena": {
+          "name": "Villena Bridge (\"glass bridge\")",
+          "description": "Pedestrian bridge with glass panels linking sections of the Miraflores cliff walk and offering great views towards the Costa Verde and the way to Barranco.",
+          "schedule": "Sunset or night, when the bridge and the coast lights are on.",
+          "price": "Crossing the bridge is free."
+        }
+      }
+    },
+    "barranco": {
+      "eyebrow": "Lima – Bohemian Barranco",
+      "title": "A walk between murals, music and the ocean in Barranco",
+      "intro": "Start in a quiet park, pass by monuments, streets with live music and end between viewpoints and lively plazas.",
+      "stopLabel": "Stop {number}",
+
+      "labels": {
+        "schedule": "Suggested time",
+        "price": "Entrance"
+      },
+
+      "buttons": {
+        "map": "Open in Maps",
+        "history": "See related history"
+      },
+
+      "places": {
+        "parqueVillarreal": {
+          "name": "Federico Villarreal Park",
+          "description": "A small, quiet park to start your route, with trees and benches where you can plan the rest of your walk.",
+          "schedule": "Morning or afternoon, ideal as a meeting point.",
+          "price": "Free access."
+        },
+        "monumentoChabuca": {
+          "name": "Chabuca Granda Monument",
+          "description": "Monument dedicated to Barranco’s most beloved singer-songwriter, author of the famous song “La flor de la canela”.",
+          "schedule": "All day; especially nice at sunset with soft light.",
+          "price": "Free access."
+        },
+        "puenteSuspiros": {
+          "name": "Bridge of Sighs",
+          "description": "Barranco’s classic spot: a wooden bridge with graffiti, street musicians and a view towards the path down to the sea.",
+          "schedule": "Late afternoon or evening to feel the bohemian atmosphere.",
+          "price": "Free access."
+        },
+        "bajadaBanos": {
+          "name": "Bajada de Baños",
+          "description": "Pedestrian street that goes down towards the sea, full of murals, bars and restaurants. From here you can reach the viewpoint or continue all the way to the coast.",
+          "schedule": "Afternoon or evening, when most places are open.",
+          "price": "Free access; food and drinks are paid separately."
+        },
+        "miradorRecavarren": {
+          "name": "Catalina Recavarren Viewpoint",
+          "description": "Viewpoint over the cliffs and the Pacific Ocean, perfect for photos at sunset.",
+          "schedule": "Best at sunset, when you can see the colors of the sky and city lights.",
+          "price": "Free access."
+        },
+        "parqueMunicipal": {
+          "name": "Barranco Main Square",
+          "description": "The district’s main square, surrounded by old houses, restaurants and the Church of the Holy Cross.",
+          "schedule": "Morning or night; there is usually movement at any time.",
+          "price": "Free access."
+        }
+      }
+    },
+    "waterCircuit": {
+      "eyebrow": "Lima – Magic Water Circuit",
+      "title": "An evening of lights, water and music at Parque de la Reserva",
+      "intro": "The Magic Water Circuit is built inside the historic Parque de la Reserva, right in front of the National Stadium. It’s a perfect plan for a late afternoon and evening in Lima.",
+
+      "labels": {
+        "schedule": "Suggested time",
+        "price": "Entrance"
+      },
+
+      "buttons": {
+        "map": "Open in Maps",
+        "tickets": "Check hours and prices"
+      },
+
+      "stops": {
+        "estadio": {
+          "badge": "Quick photo stop",
+          "name": "National Stadium (outside view)",
+          "description": "Before entering the Magic Water Circuit you can walk past the National Stadium, Peru’s most important football stadium.",
+          "schedule": "Best around sunset, when the city lights start to turn on.",
+          "price": "Outside view only; this route usually does not include going inside the stadium."
+        },
+        "parque": {
+          "badge": "Start of the circuit",
+          "name": "Parque de la Reserva – Magic Water Circuit",
+          "description": "The old Parque de la Reserva, now transformed into a circuit of illuminated fountains with music, photo spots and a family-friendly atmosphere.",
+          "schedule": "Late afternoon and evening. A good idea is to enter while there is still daylight and stay until it gets dark.",
+          "price": "Paid entrance. Prices may change over time; check the official website or ask at the ticket office."
+        }
+      },
+
+      "fountainsTitle": "The 13 fountains of the Magic Water Circuit",
+      "fountainsIntro": "Inside the park you’ll find 13 interactive and decorative fountains. Here are the most famous ones so you know what not to miss.",
+      "highlightBadge": "Main light & story show",
+
+      "fountains": {
+        "fantasia": {
+          "name": "Fuente de la Fantasía",
+          "description": "The most famous fountain, where Peruvian images and history are projected onto a water screen with music, lights and lasers."
+        },
+        "laberinto": {
+          "name": "Laberinto del Ensueño",
+          "description": "A small water maze where you can try to walk in and out without getting wet… if you choose the right moment."
+        },
+        "tunelSorpresas": {
+          "name": "Tunnel of Surprises",
+          "description": "A tunnel formed by arches of water. Great for romantic photos and for walking while listening to the sound of the fountains."
+        },
+        "ninos": {
+          "name": "Children’s Fountain",
+          "description": "Area designed for kids to play and splash around. Bring extra clothes if you’re visiting with family."
+        },
+        "armonia": {
+          "name": "Fountain of Harmony",
+          "description": "Calmer, decorative fountains that are perfect for photos with the buildings of central Lima in the background."
+        },
+        "arcoIris": {
+          "name": "Rainbow Fountain",
+          "description": "Water jets that form colourful arches thanks to the night lighting."
+        },
+        "magica": {
+          "name": "Magic Fountain",
+          "description": "One of the main fountains, with tall jets that change intensity with the music."
+        },
+        "ilusion": {
+          "name": "Fountain of Illusion",
+          "description": "Jets that appear and disappear, creating visual effects that look great in videos and photos."
+        },
+        "cupula": {
+          "name": "Visitor’s Dome Fountain",
+          "description": "A dome made of water where you can stand in the middle and see the city through the curtain of jets."
+        },
+        "rioDeseos": {
+          "name": "River of Wishes",
+          "description": "A small illuminated canal where many visitors take photos and make a wish."
+        },
+        "vida": {
+          "name": "Fountain of Life",
+          "description": "Design that represents movement and energy, with jets at different heights."
+        },
+        "union": {
+          "name": "Fountain of Union",
+          "description": "Water jets that cross and meet in the centre, symbolising people coming together."
+        },
+        "tradiciones": {
+          "name": "Traditions Fountain",
+          "description": "Decorative fountain usually surrounded by Peruvian music, from criollo to Andean tunes."
+        },
+        "logia": {
+        "name": "Monument of the Lodge",
+        "description": "Fountain next to an elegant classic-style loggia with columns and arches, especially photogenic at night when both the water and the architecture are lit up."
+        }
+      }
+    },
+    "icaNazca": {
+      "eyebrow": "SOUTH – PARACAS, ICA & NAZCA",
+      "title": "Classic south route: Ballestas Islands, Huacachina & Nazca Lines",
+      "intro": "A route designed to make the most of a full day from Lima or a short 2-day trip: ocean, desert, wineries and one of the greatest mysteries of the ancient world.",
+      "stopLabel": "Stop {{number}}",
+      "labels": {
+        "schedule": "Suggested time",
+        "price": "Entrance / costs",
+        "duration": "Approx. duration"
+      },
+      "buttons": {
+        "map": "Open in Maps",
+        "tour": "I want this tour with Mily"
+      },
+      "stops": {
+        "ballestas": {
+          "name": "Paracas – Ballestas Islands",
+          "description": "Boat ride in Paracas Bay to see sea lions, guano birds, Humboldt penguins and the famous Candelabro geoglyph etched into the coastal desert.",
+          "schedule": "Early morning (most tours depart between 8:00 and 10:00 a.m.).",
+          "price": "Boat tour + port and reserve fees (prices vary by agency).",
+          "duration": "2–3 hours including boarding and disembarking."
+        },
+        "icaBodega": {
+          "name": "Ica – Winery visit & lunch",
+          "description": "Visit a traditional winery to learn about the production of wine and pisco. Guided tasting and typical lunch. You can go to wineries like Nieto, CulturPisco or other well-known spots in the area.",
+          "schedule": "Around midday, after the Ballestas Islands tour.",
+          "price": "Tasting and lunch according to menu or daily specials.",
+          "duration": "1.5–2 hours including tour, tasting and meal."
+        },
+        "huacachina": {
+          "name": "Huacachina Oasis & dune buggies",
+          "description": "A natural oasis surrounded by huge sand dunes. Here you do the classic dune buggy ride and sandboarding with a beautiful desert sunset.",
+          "schedule": "Afternoon, ideally arriving before 4:00 p.m. to catch the sunset.",
+          "price": "Dune buggy and sandboard; paid per circuit or per person depending on the operator.",
+          "duration": "1–2 hours depending on the tour you choose."
+        },
+        "nazcaLines": {
+          "name": "Nazca Lines flight",
+          "description": "Light-aircraft flight over the mysterious figures drawn in the desert: the hummingbird, the monkey, the spider and many more. Usually done as an extension of the trip, leaving very early from Ica or spending the night in Nazca.",
+          "schedule": "Very early in the morning. You must arrive in advance at the airfield for check-in.",
+          "price": "Flight + airport fee; prices vary depending on season and local airline.",
+          "duration": "30–40 minute flight, but plan at least 2–3 hours including waiting and paperwork."
+        }
+      },
+      "outro": "You can do this south route as an intense full-day trip from Lima or split it into 2 days to travel more relaxed. If you’d like Mily to help you organize it, send us a message on the contact page."
     }
   },
   "Gastronomy": {
@@ -200,22 +448,926 @@
       "title": "Peruvian cuisine Mily has tasted",
       "subtitle": "From coastal ceviches to Andean dishes: an honest guide to eating well.",
       "alt": "Traditional Peruvian gastronomy"
+    },
+    "intro": {
+      "eyebrow": "PERUVIAN GASTRONOMY",
+      "title": "Flavors born from the coast, the Andes and the Amazon",
+      "subtitle": "Peruvian cuisine is considered one of the best in the world thanks to its ingredients, techniques and cultural mix. Here you’ll find a clear guide by regions so you can explain it to travelers without getting lost in details.",
+      "paragraph1": "In a single country you get products from the Pacific Ocean, the Andes mountains and the Amazon rainforest. On top of that, there are centuries of history: Indigenous heritage plus Spanish, African, Chinese, Japanese and Italian influence. The result is a very diverse cuisine, but with something in common: intense flavors and dishes that tell stories.",
+      "paragraph2": "To make it easier to learn and to explain, in this blog we divide Peruvian food into three big families: dishes from the coast, the Andes and the Amazon. In each one you’ll see concrete examples, tips to explain them to tourists and simple historical context.",
+      "regions": {
+        "coast": {
+          "label": "Coast: seafood, ceviche & anticuchos",
+          "description": "Dishes made with fresh fish and seafood, chili peppers, corn and potatoes. This is where ceviche, tiradito, lomo saltado and many of the classics that travelers try in Lima and coastal cities are born."
+        },
+        "andes": {
+          "label": "Andes: potatoes, quinoa & stews",
+          "description": "Heartier soups and stews with native potatoes, quinoa, corn, meat and ancestral techniques. Perfect for colder regions like Cusco, Puno or Ayacucho."
+        },
+        "jungle": {
+          "label": "Amazon: bold flavors and bijao leaves",
+          "description": "Dishes wrapped in leaves, with plantain, cecina (smoked pork), sausages, river fish and exotic fruits. An aromatic and colorful cuisine that surprises visitors to the Peruvian Amazon."
+        }
+      },
+      "next": "In the next sections you’ll see concrete examples from each region, starting with the most famous dishes from the coast and then traveling to the Andes and the Amazon."
+    },
+    "coast": {
+      "eyebrow": "Peruvian coast",
+      "title": "Flavors of Peru’s coastal region",
+      "intro": "Along the Peruvian coast, the cold Pacific Ocean meets Andean and Creole ingredients. Here you’ll find ceviches, rice dishes, causas and drinks that have become famous worldwide.",
+      "labels": {
+        "ingredients": "Key ingredients",
+        "preparation": "Preparation in a few words"
+      },
+      "dishes": {
+        "ceviche": {
+          "badge": "Signature dish",
+          "name": "Classic Peruvian ceviche",
+          "tagline": "Fresh fish, lime juice, and chili: the perfect combination to understand coastal Peruvian cuisine.",
+          "ingredients": "Fresh white fish (such as bonito or corvina), freshly squeezed lime juice, ají limo chili, sliced red onion, chopped cilantro, salt, pepper, boiled sweet potato, corn, and cancha (toasted corn) on the side.",
+          "preparation": "Cut the fish into cubes and season with salt, pepper, chili, and cilantro. Add the freshly squeezed lime juice, mix gently, and let it rest just a few minutes until the fish turns opaque. Serve immediately with onion, sweet potato, corn, and cancha.",
+          "historyCta": "Read the story of ceviche"
+        },
+        "lecheTigre": {
+          "badge": "Ceviche shot",
+          "name": "Leche de tigre",
+          "tagline": "The concentrated juice of ceviche, served in a glass as an energizing shot, perfect for hot days.",
+          "ingredients": "Lime juice, fish stock, leftover ceviche juices, small pieces of fish, ají limo chili, garlic, cilantro, salt, and pepper. Sometimes a splash of ginger ale or crushed ice is added to make it extra refreshing.",
+          "preparation": "Blend the lime juice with fish stock, some of the ceviche fish, chili, garlic, and cilantro. Strain, adjust seasoning with salt and pepper, and serve very cold in a small glass, garnished with onion, chili, and a cube of fish if you like.",
+          "historyCta": "Read the story of leche de tigre"
+        },
+        "arrozMariscos": {
+          "badge": "Seafood main",
+          "name": "Arroz con mariscos (seafood rice)",
+          "tagline": "A creamy rice packed with seafood, perfect as a main dish after ceviche.",
+          "ingredients": "Rice, fish stock, mixed seafood (squid, octopus, shellfish, shrimp), garlic, onion, ají amarillo and ají panca chilies, white wine, chopped cilantro, peas, bell pepper, salt, and pepper.",
+          "preparation": "Make a base with onion, garlic, and chilies. Sear the seafood over high heat, then add the rice and hot stock. Cook until the rice is tender but still juicy, then finish with cilantro, strips of bell pepper, and a few drops of lime juice.",
+          "historyCta": "Read the story of arroz con mariscos"
+        },
+        "causaLangostinos": {
+          "badge": "Cold starter",
+          "name": "Causa filled with shrimp",
+          "tagline": "Layers of seasoned yellow potato with a shrimp filling, freshness, and a lot of texture.",
+          "ingredients": "Mashed yellow potatoes, ají amarillo chili paste, vegetable oil, lime juice, salt, cooked shrimp, mayonnaise, avocado, hard-boiled egg, lettuce, and olives to decorate.",
+          "preparation": "Mix the mashed potatoes with ají amarillo, oil, lime, and salt until smooth. Assemble in layers: potato, shrimp and mayo filling with avocado, and another layer of potato. Decorate with egg, olives, and whole shrimp on top.",
+          "historyCta": "Read the story of causa"
+        },
+        "piscoSour": {
+          "badge": "National cocktail",
+          "name": "Peruvian pisco sour",
+          "tagline": "A cocktail made with pisco, lime, simple syrup, and egg white, perfect to start the evening.",
+          "ingredients": "Peruvian pisco (such as quebranta), fresh lime juice, simple syrup, egg white, and ice. A few drops of Angostura bitters are added on top.",
+          "preparation": "In a shaker or blender, mix pisco, lime juice, simple syrup, egg white, and ice. Shake or blend until a thick foam forms, then serve in a chilled glass and add a few drops of bitters on the foam.",
+          "historyCta": "Read the story of pisco sour"
+        },
+        "chichaMorada": {
+          "badge": "Traditional drink",
+          "name": "Chicha morada",
+          "tagline": "A sweet, aromatic drink made from purple corn, fruit, and spices.",
+          "ingredients": "Purple corn, pineapple (peel and core), apple, cinnamon sticks, cloves, sugar or panela, lime juice, and water.",
+          "preparation": "Boil the purple corn with pineapple peel, apple, cinnamon, and cloves for several minutes. Strain and let it cool, then sweeten to taste. Just before serving, add lime juice to bring freshness.",
+          "historyCta": "Read the story of chicha morada"
+        }
+      },
+      "recommendations": {
+        "title": "Where to try these flavors in Lima",
+        "subtitle": "If you want to try ceviche and other coastal dishes in Lima, these places are a good starting point. Remember there are many local huariques that Mily can recommend to you in person.",
+        "viewOnMap": "View on map",
+        "items": {
+          "puntoAzul": {
+            "note": "Very popular cevichería among locals, with generous portions and a relaxed atmosphere."
+          },
+          "laMar": {
+            "note": "Gastón Acurio’s cevichería, ideal if you want a more gourmet experience and a wide variety of ceviches."
+          },
+          "mercado": {
+            "note": "Modern restaurant where ceviche is served with creative touches and very fresh seafood."
+          },
+          "alFresco": {
+            "note": "A classic spot facing the ocean, perfect to enjoy ceviche with a Costa Verde view."
+          },
+          "huarique": {
+            "note": "Small neighborhood spots where ceviche is simple, direct, and tastes like home cooking."
+          }
+        }
+      }
+    },
+    "sierra": {
+    "eyebrow": "Gastronomy – Highlands",
+    "title": "Flavors of the Peruvian highlands",
+    "intro": "Hearty dishes, hot soups and rustic drinks born from the cold of the Andes. Recipes with potatoes, corn and meats that have nourished Andean families for generations.",
+    "labels": {
+      "ingredients": "Main ingredients",
+      "preparation": "Preparation"
+    },
+    "buttons": {
+      "history": "Read the story of this dish or drink"
+    },
+    "dishes": {
+      "cuyChactado": {
+        "type": "Main dish",
+        "name": "Cuy chactado (fried guinea pig)",
+        "ingredients": "Whole guinea pig marinated with garlic, ají panca, salt, pepper, cumin and plenty of fat for frying.",
+        "preparation": "The guinea pig is marinated, lightly flattened and fried in hot fat until it becomes very crunchy."
+      },
+      "pachamanca": {
+        "type": "Main dish",
+        "name": "Pachamanca",
+        "ingredients": "Mixed meats (chicken, pork, beef, sometimes cuy), potatoes, sweet potato, broad beans, corn and Andean herbs such as chincho and huacatay.",
+        "preparation": "Stones are heated in an earth oven, the marinated meats and tubers are placed inside, covered with herbs and earth and cooked slowly with the heat of the stones."
+      },
+      "rocotoRelleno": {
+        "type": "Main dish",
+        "name": "Rocoto relleno (stuffed hot pepper)",
+        "ingredients": "Rocoto peppers without seeds, ground meat, peanuts, raisins, fresh cheese, milk and spices.",
+        "preparation": "The rocotos are blanched to reduce the heat, stuffed with a seasoned meat filling, topped with cheese and baked until golden."
+      },
+      "chicharronMote": {
+        "type": "Main dish",
+        "name": "Chicharrón with mote",
+        "ingredients": "Pork, salt, aromatic herbs and cooked peeled corn (mote).",
+        "preparation": "The pork is cooked in its own fat until golden and served with mote, potatoes and simple salads."
+      },
+      "truchaFrita": {
+        "type": "Main dish",
+        "name": "Fried trout",
+        "ingredients": "Fresh trout, garlic, salt, pepper, flour or cornstarch and oil for frying.",
+        "preparation": "The trout is seasoned, lightly floured and fried until crispy on the outside and juicy inside. It is served with potatoes and salad."
+      },
+      "sopaMote": {
+        "type": "Soup",
+        "name": "Mote soup",
+        "ingredients": "Peeled corn (mote), beef or pork, potatoes, herbs and vegetables.",
+        "preparation": "The mote is slowly cooked together with the meats and vegetables until you get a thick, very hot soup."
+      },
+      "caldoCabeza": {
+        "type": "Soup",
+        "name": "Head soup",
+        "ingredients": "Sheep’s head, potatoes, mint, garlic, onion and spices.",
+        "preparation": "The head is boiled for several hours with potatoes and herbs, resulting in a very rich and comforting broth."
+      },
+      "patasca": {
+        "type": "Soup",
+        "name": "Patasca",
+        "ingredients": "Peeled corn (mote), beef or pork, tripe, potatoes and herbs.",
+        "preparation": "Corn and meats are simmered for a long time until everything is tender; it is served very hot, almost like a thick stew."
+      },
+      "quesoHelado": {
+        "type": "Dessert",
+        "name": "Arequipeño queso helado",
+        "ingredients": "Milk, sugar, egg yolks (sometimes), cinnamon, vanilla and grated coconut.",
+        "preparation": "The milk mixture is frozen in a metal cylinder and scraped to form thin layers, similar to a creamy shaved ice."
+      },
+      "calentito": {
+        "type": "Hot drink",
+        "name": "Calentito",
+        "ingredients": "Cane liquor, herbal tea, sugar or honey and sometimes lemon juice.",
+        "preparation": "Hot herbal infusion is mixed with liquor and sugar, and served in a small glass – a classic drink for cold Andean nights."
+      },
+      "chichaJora": {
+        "type": "Fermented drink",
+        "name": "Chicha de jora",
+        "ingredients": "Jora corn (fermented), water and sometimes panela or fruit.",
+        "preparation": "The corn is soaked, cooked and left to ferment for several days. It is strained and served as a slightly sour, foamy drink."
+      }
+    },
+    "places": {
+      "title": "Where to taste Andean flavors in Lima?",
+      "intro": "If you want to try cuy, pachamanca or other highland dishes without leaving Lima, these restaurants are a good place to start.",
+      "panchita": {
+        "name": "Panchita (Miraflores)",
+        "description": "Criollo restaurant with Andean influences; you can find chicharrón, anticuchos and hearty dishes from the highlands."
+      },
+      "elRocoto": {
+        "name": "El Rocoto (Miraflores / San Isidro)",
+        "description": "Classic Arequipa-style restaurant in Lima, famous for its rocoto relleno and other southern dishes."
+      },
+      "laCusquenita": {
+        "name": "La Cusqueñita (Lince)",
+        "description": "Traditional spot with live music some nights, serving cuy chactado, chicharrón with mote, soups and chicha de jora."
+      },
+      "huancahuasi": {
+        "name": "Huancahuasi (Ate / Los Olivos)",
+        "description": "Specialized in Huancayo-style food and pachamanca; perfect to share typical Andean dishes with family or friends."
+      },
+      "viewOnMap": "View on map",
+      "note": "Opening hours and menus may change; check each restaurant’s website or social media before visiting."
     }
   },
-  "History": {
+  "selva": {
+    "eyebrow": "Gastronomy – Amazon",
+    "title": "Flavors of the Peruvian Amazon",
+    "intro": "Dishes wrapped in leaves, river fish, exotic fruits and fermented drinks. Amazonian cuisine surprises with its intense aromas and vibrant colors.",
+    "labels": {
+      "ingredients": "Main ingredients",
+      "preparation": "Preparation"
+    },
+    "buttons": {
+      "history": "Read the story of this dish or drink"
+    },
+    "dishes": {
+      "juane": {
+        "type": "Main dish",
+        "name": "Juane",
+        "ingredients": "Rice, chicken, olives, hard-boiled egg, spices and bijao leaves for wrapping.",
+        "preparation": "Rice is mixed with shredded chicken and spices, wrapped in bijao leaves to form a packet and boiled for several hours until everything is compact."
+      },
+      "patarashca": {
+        "type": "Main dish",
+        "name": "Patarashca",
+        "ingredients": "River fish (such as paiche or doncella), garlic, cilantro, ají charapita, salt and bijao leaves.",
+        "preparation": "The fish is seasoned with garlic, cilantro and chili, wrapped in bijao leaves and grilled over charcoal until cooked and aromatic."
+      },
+      "tacacho": {
+        "type": "Main dish",
+        "name": "Tacacho with cecina",
+        "ingredients": "Roasted green plantain, lard, salt, cecina (smoked pork) and regional chorizo.",
+        "preparation": "The plantain is roasted, mashed with lard and salt to form balls, and served with grilled cecina and chorizo."
+      },
+      "suriFrito": {
+        "type": "Exotic dish",
+        "name": "Fried suri",
+        "ingredients": "Suris (beetle larvae), salt, garlic and oil for frying.",
+        "preparation": "The suris are cleaned, seasoned with salt and garlic, and fried until crispy on the outside and creamy inside."
+      },
+      "inchicapi": {
+        "type": "Soup",
+        "name": "Inchicapi",
+        "ingredients": "Free-range hen, roasted and ground peanuts, cassava, cilantro, garlic, cumin and salt.",
+        "preparation": "The hen is cooked with ground peanuts to form a thick, creamy soup, then cassava and cilantro are added at the end."
+      },
+      "chilicano": {
+        "type": "Soup",
+        "name": "Chilicano",
+        "ingredients": "Fresh river fish, cilantro, garlic, onion, ají charapita, lime and salt.",
+        "preparation": "A light broth is made with the fish, cilantro, garlic and chili, served very hot with freshly squeezed lime juice."
+      },
+      "cecina": {
+        "type": "Main dish",
+        "name": "Amazonian cecina",
+        "ingredients": "Pork, coarse salt, spices and smoking time.",
+        "preparation": "The meat is heavily salted and smoked for several days, then grilled until golden and aromatic."
+      },
+      "timbuche": {
+        "type": "Soup",
+        "name": "Timbuche",
+        "ingredients": "River fish, fish eggs, cilantro, onion, ají charapita and salt.",
+        "preparation": "The fish is cooked with its eggs in water with cilantro and chili, forming a simple but very nutritious soup."
+      },
+      "cremoladaAguaje": {
+        "type": "Frozen dessert",
+        "name": "Aguaje cremolada",
+        "ingredients": "Aguaje pulp, sugar, water and ice.",
+        "preparation": "Aguaje pulp is blended with sugar and water, then frozen while scraping constantly to form a creamy shaved ice texture."
+      },
+      "masato": {
+        "type": "Fermented drink",
+        "name": "Masato",
+        "ingredients": "Cooked and chewed (or blended) cassava, water, sugar and fermentation time.",
+        "preparation": "Cassava is cooked, mashed or chewed, mixed with water and sugar and left to ferment for days to obtain a slightly sour drink."
+      },
+      "chapo": {
+        "type": "Drink",
+        "name": "Chapo",
+        "ingredients": "Ripe plantain, water, sugar or panela and cinnamon.",
+        "preparation": "Ripe plantain is cooked with water and sugar to form a thick, sweet drink, served cold or hot."
+      },
+      "aguajina": {
+        "type": "Drink",
+        "name": "Aguajina",
+        "ingredients": "Aguaje pulp, water, sugar and ice.",
+        "preparation": "Aguaje pulp is blended with water and sugar, strained and served very cold as a nutritious refreshment."
+      }
+    },
+    "places": {
+      "title": "Where to try Amazonian flavors in Lima?",
+      "intro": "If you want to try juane, patarashca and other Amazon dishes without leaving Lima, these restaurants are a good place to start.",
+      "malabar": {
+        "name": "Malabar (San Isidro)",
+        "description": "Fine dining restaurant with Amazonian proposals, ideal for discovering ingredients from the jungle with a gourmet presentation."
+      },
+      "amaz": {
+        "name": "Amaz (Miraflores)",
+        "description": "Specialized in contemporary Amazonian cuisine, with dishes like patarashca, tacacho and exotic drinks."
+      },
+      "laPatarashca": {
+        "name": "La Patarashca (multiple locations)",
+        "description": "Cevichería chain with a strong presence of Amazonian fish and typical dishes from the jungle."
+      },
+      "elRinconcito": {
+        "name": "El Rinconcito Amazónico (San Juan de Lurigancho)",
+        "description": "Popular restaurant serving juane, cecina, tacacho and other homestyle preparations from the Amazon."
+      },
+      "viewOnMap": "View on map",
+      "note": "Opening hours and menus may change; check each restaurant's website or social media before visiting."
+    }
+  }
+},
+"History": {
     "hero": {
       "eyebrow": "Roots of Peru",
       "title": "Peruvian history told by Mily",
       "subtitle": "From the Incas to today: the stories that shape this country.",
       "alt": "History and culture of Peru"
+    },
+    "intro": {
+      "eyebrow": "History of Peru",
+      "title": "From pre-Inca cultures to the Republic",
+      "subtitle": "A quick overview of the main stages in Peru’s history. Tap each block to jump straight to the detailed section.",
+      "periods": {
+        "preinca": {
+          "title": "Pre-Inca period",
+          "date": "Before 1200 AD"
+        },
+        "inca": {
+          "title": "Inca Empire",
+          "date": "c. 1200 – 1532"
+        },
+        "virreinato": {
+          "title": "Viceroyalty of Peru",
+          "date": "1532 – 1821"
+        },
+        "republica": {
+          "title": "Republic",
+          "date": "From 1821"
+        }
+      }
+    },
+    "preinca": {
+      "eyebrow": "Stage 1 – Pre-Inca period",
+      "title": "Before the Incas: cultures that made the Empire possible",
+      "subtitle": "Long before Cusco became the capital of the Inca Empire, cities, temples and skilled artisans already existed along the Andes. This period brings together the cultures that prepared the ground for the Andean world.",
+      "tags": {
+        "period": "From c. 3000 BC to 1470 AD",
+        "focus": "Regional cultures, temples, textiles and farming systems"
+      },
+      "keyIdeas": {
+        "title": "Key takeaways",
+        "lead": "If you only have a few minutes to explain the Pre-Inca period, focus on these ideas.",
+        "bullets": {
+          "one": "There was no single empire yet, but many regional cultures with their own styles.",
+          "two": "They built temples, pyramids and ceremonial centers that organized religious and political life.",
+          "three": "They developed textiles, pottery and irrigation systems later adopted by the Incas."
+        }
+      },
+      "timeline": {
+        "title": "Quick timeline",
+        "lead": "Four moments to help you place Pre-Inca cultures in time.",
+        "items": {
+          "caral": {
+            "date": "c. 3000–1800 BC",
+            "label": "Caral",
+            "description": "One of the oldest cities in the Americas, with pyramids and sunken plazas in the Supe Valley (Lima)."
+          },
+          "chavin": {
+            "date": "c. 900–200 BC",
+            "label": "Chavín",
+            "description": "Religious center whose stone and ceramic art influenced many other Andean cultures."
+          },
+          "nazcaMoche": {
+            "date": "c. 200 BC–600 AD",
+            "label": "Nazca & Moche",
+            "description": "Nazca created the famous desert geoglyphs; Moche built huacas and detailed pottery that shows daily life and rituals."
+          },
+          "wariChimu": {
+            "date": "c. 600–1470 AD",
+            "label": "Wari & Chimú",
+            "description": "Wari planned cities and roads; Chimú built Chan Chan, a huge adobe city near today’s Trujillo."
+          }
+        }
+      },
+      "cultures": {
+        "title": "Key cultures to mention",
+        "lead": "You don’t need to memorize a long list. These are the names that most often appear in museums, tours and conversations with travelers.",
+        "items": {
+          "caral": {
+            "name": "Caral",
+            "region": "Supe Valley (Lima coast)",
+            "description": "Sacred city with pyramids and circular plazas, very early urban planning for the Americas."
+          },
+          "chavin": {
+            "name": "Chavín",
+            "region": "Northern highlands (Áncash)",
+            "description": "Sanctuary famous for the Lanzón monolith and underground galleries."
+          },
+          "paracas": {
+            "name": "Paracas",
+            "region": "South coast (Ica)",
+            "description": "Known for its funerary bundles, extremely fine textiles and intentional cranial deformation."
+          },
+          "nazca": {
+            "name": "Nazca",
+            "region": "Ica desert",
+            "description": "Creators of the Nazca Lines, huge figures drawn on the desert floor, best seen from the air."
+          },
+          "moche": {
+            "name": "Moche",
+            "region": "North coast (La Libertad)",
+            "description": "Built large adobe temples and produced pottery that works almost like a graphic novel of their society."
+          },
+          "wari": {
+            "name": "Wari",
+            "region": "Central highlands (Ayacucho)",
+            "description": "Developed planned cities and a road network that later influenced Inca organization."
+          },
+          "chimu": {
+            "name": "Chimú",
+            "region": "North coast (La Libertad)",
+            "description": "Their capital Chan Chan is one of the largest adobe cities in the world."
+          }
+        }
+      },
+      "life": {
+        "title": "What life was like in Pre-Inca times",
+        "society": {
+          "title": "Society",
+          "text": "People lived in villages and ceremonial centers. Religious and political elites organized work and rituals, while specialized artisans produced pottery and textiles."
+        },
+        "economy": {
+          "title": "Economy",
+          "text": "Agriculture in valleys and oases was the base, supported by irrigation canals. It was combined with coastal fishing and exchange routes between coast, highlands and jungle."
+        },
+        "religion": {
+          "title": "Religion & worldview",
+          "text": "They worshipped forces of nature such as the sea, mountains and stars. Temples and huacas were the spaces for offerings, sacrifices and festivities."
+        }
+      },
+      "sites": {
+        "title": "Where to see Pre-Inca heritage today",
+        "lead": "These sites are a good starting point if you want to connect this history with real places.",
+        "buttons": {
+          "map": "Open map",
+          "destinations": "See in Destinations"
+        },
+        "items": {
+          "caral": {
+            "name": "Sacred City of Caral",
+            "region": "Supe Valley, north of Lima",
+            "description": "Archaeological complex with pyramids and sunken plazas, perfect to talk about the origins of cities in the Americas.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#sur-chico"
+          },
+          "paracas": {
+            "name": "Paracas – Necropolis & textiles",
+            "region": "Paracas National Reserve (Ica)",
+            "description": "Museums and archaeological zones that display funerary bundles and detailed textiles.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#sur-chico"
+          },
+          "nazca": {
+            "name": "Nazca Lines",
+            "region": "Nazca desert (Ica)",
+            "description": "Geoglyphs usually seen on small plane flights; great moment to talk about Andean symbolism and astronomy.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#sur-chico"
+          },
+          "museoLarco": {
+            "name": "Larco Museum",
+            "region": "Pueblo Libre district, Lima",
+            "description": "Very complete collection of pottery and textiles from several Pre-Inca cultures, a perfect overview.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#museos-lima"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips for explaining this period",
+        "lead": "Designed for guides and curious travelers who want to explain history without overwhelming people.",
+        "groups": {
+          "storyIdeas": "Storytelling ideas",
+          "curiosities": "Fun facts"
+        },
+        "items": {
+          "ideaStory1": "Compare Caral with other civilizations from a similar time (Egypt, Mesopotamia) so visitors understand how old it is.",
+          "ideaStory2": "When talking about Paracas and Nazca, link textile designs and geoglyphs with patterns still used in Peruvian crafts and fashion.",
+          "curiosity1": "Some huacas continued to be worshipped even under Inca and later colonial rule.",
+          "curiosity2": "Many Pre-Inca exchange routes were later reused to build the Inca road system."
+        },
+        "footer": "Use these ideas as a guide, not a strict script. Adapt them to your style and to the time you have."
+      }
+    },
+    "inca": {
+      "eyebrow": "Stage 2 – Inca world",
+      "title": "The Tahuantinsuyo: empire of the four quarters",
+      "subtitle": "In just over a century the Incas went from a small kingdom in Cusco to ruling a territory from Colombia to central Chile. Here is a clear version of how that empire worked.",
+      "tags": {
+        "period": "13th to 16th century AD",
+        "focus": "Expansion, state organization and major works"
+      },
+      "keyIdeas": {
+        "title": "Key points",
+        "lead": "Whenever you talk about the Inca period, try to come back to these three ideas.",
+        "bullets": {
+          "one": "The Incas did not appear from nowhere: they inherited knowledge from many earlier cultures.",
+          "two": "They organized a highly centralized state with its capital in Cusco and a labor tax system known as mita.",
+          "three": "They built roads, terraces and stone cities that today are icons of Peru, such as Machu Picchu."
+        }
+      },
+      "timeline": {
+        "title": "Quick timeline",
+        "lead": "Four moments to place the rise and fall of the Inca Empire.",
+        "items": {
+          "origins": {
+            "date": "c. 1200–1438 AD",
+            "label": "Cusco kingdoms",
+            "description": "Small lordships in the Cusco valley gradually consolidate their power before the imperial expansion."
+          },
+          "pachacutec": {
+            "date": "1438–1471",
+            "label": "Pachacútec’s reign",
+            "description": "Reorganizes Cusco, starts the expansion and is often associated with the construction of Machu Picchu."
+          },
+          "expansion": {
+            "date": "1471–1527",
+            "label": "Maximum expansion",
+            "description": "Under Túpac Yupanqui and Huayna Cápac the empire stretches from southern Colombia to central Chile."
+          },
+          "crisis": {
+            "date": "1527–1533",
+            "label": "Civil war & conquest",
+            "description": "Huayna Cápac’s death leads to a war between Huáscar and Atahualpa, weakening the empire when the Spanish arrive."
+          }
+        }
+      },
+      "structure": {
+        "title": "How the Tahuantinsuyo worked",
+        "lead": "A short explanation of the imperial structure that you can adapt to any group.",
+        "items": {
+          "territory": {
+            "title": "Territory and suyos",
+            "text": "The Tahuantinsuyo was divided into four regions or suyos (Chinchaysuyo, Antisuyo, Collasuyo and Contisuyo) connected by roads and administered from Cusco."
+          },
+          "government": {
+            "title": "Government and mita",
+            "text": "The Inca was the highest authority, supported by Cusco nobility. Conquered peoples had to provide labor tribute (mita) to build roads, terraces, temples and state storehouses."
+          },
+          "roads": {
+            "title": "Roads and quipus",
+            "text": "The Qhapaq Ñan was a huge road network linking mountains, coast and jungle. Chasquis (runners) carried messages, and quipus were used to record censuses, tribute and storage."
+          },
+          "religion": {
+            "title": "Religion and symbols",
+            "text": "The sun (Inti) was the main deity, but local huacas, mountains and Pachamama were also worshipped. The Incas usually incorporated local cults instead of destroying them."
+          }
+        }
+      },
+      "life": {
+        "title": "Everyday life in Inca times",
+        "people": {
+          "title": "People",
+          "text": "Most inhabitants lived in ayllus, communities that shared land and work. Local identity coexisted with the idea of belonging to the Tahuantinsuyo."
+        },
+        "work": {
+          "title": "Work & agriculture",
+          "text": "Terraces and irrigation canals allowed farming on steep slopes. People worked in turns: time for the community, for the State and for the temples."
+        },
+        "festivals": {
+          "title": "Festivals & rituals",
+          "text": "Major ceremonies such as Inti Raymi marked the agricultural calendar. Offerings, dances and feasts reinforced loyalty to the Inca and the huacas."
+        }
+      },
+      "sites": {
+        "title": "Places where the Inca world is still visible",
+        "lead": "These sites are excellent excuses to talk about the empire during a tour.",
+        "buttons": {
+          "map": "Open map",
+          "destinations": "See in Destinations"
+        },
+        "items": {
+          "machuPicchu": {
+            "name": "Machu Picchu",
+            "region": "Urubamba Valley, Cusco",
+            "description": "Mountain-top Inca city with agricultural and urban sectors. Perfect to explain Inca architecture and the relationship with the landscape.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#cusco"
+          },
+          "sacsayhuaman": {
+            "name": "Sacsayhuamán",
+            "region": "Upper Cusco",
+            "description": "Ceremonial fortress with huge stone blocks fitted with great precision, ideal to talk about engineering and defense.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#cusco"
+          },
+          "qorikancha": {
+            "name": "Qorikancha",
+            "region": "Historic center of Cusco",
+            "description": "Main temple of the sun, later covered by the Santo Domingo convent. A clear example of Inca–colonial overlap.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#cusco"
+          },
+          "ollantaytambo": {
+            "name": "Ollantaytambo",
+            "region": "Sacred Valley of the Incas",
+            "description": "Living town with Inca street layout, terraces and ceremonial sector. Shows how cities and storehouses were organized.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#cusco"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips for explaining the Inca world",
+        "lead": "Use them to adapt your explanation to the group and the time you have.",
+        "groups": {
+          "storyIdeas": "Storytelling ideas",
+          "curiosities": "Fun facts"
+        },
+        "items": {
+          "ideaStory1": "Start from what visitors see: ask them to look at terraces or stone walls and then explain how work and mita were organized.",
+          "ideaStory2": "Relate the Qhapaq Ñan to modern highways or trekking routes (Inca Trail) so visitors can imagine its scale.",
+          "curiosity1": "The Incas often adopted local huacas into their religious system instead of destroying them, gaining allies in the process.",
+          "curiosity2": "In many colonial cities such as Cusco, the foundations of buildings are still Inca walls with Spanish houses and churches on top."
+        },
+        "footer": "You don’t need to say everything in one tour. Choose a few ideas and repeat them at different stops."
+      }
+    },
+    "virreinato": {
+      "eyebrow": "Stage 3 – Viceroyalty of Peru",
+      "title": "The Viceroyalty of Peru: wealth, control and cultural mixing",
+      "subtitle": "For almost 300 years the Viceroyalty of Peru was the main center of Spanish power in South America. This is the moment to explain mining, colonial cities, the caste system and the origins of many Peruvian traditions.",
+      "tags": {
+        "period": "1542 to 1821",
+        "focus": "Mining, colonial cities and caste society"
+      },
+      "keyIdeas": {
+        "title": "Key points",
+        "lead": "If you have little time, stick to these three key ideas about the Viceroyalty.",
+        "bullets": {
+          "one": "Lima became the most important political and administrative capital in South America.",
+          "two": "The economy was organized around silver mining, especially Potosí, and the forced labor of Indigenous people and enslaved Africans.",
+          "three": "A caste society was created with strong hierarchies, but also with intense cultural mixing that shaped modern Peru."
+        }
+      },
+      "timeline": {
+        "title": "Quick timeline",
+        "lead": "Four moments that help visitors locate the history of the Viceroyalty.",
+        "items": {
+          "conquest": {
+            "date": "1532–1533",
+            "label": "Conquest of the Inca Empire",
+            "description": "Atahualpa is captured and the Spanish enter Cusco. The Andean world changes forever."
+          },
+          "limaCapital": {
+            "date": "1542",
+            "label": "Creation of the Viceroyalty of Peru",
+            "description": "The Spanish Crown creates the Viceroyalty with its capital in the City of Kings (Lima)."
+          },
+          "borbonReforms": {
+            "date": "18th century",
+            "label": "Bourbon reforms",
+            "description": "New rules to increase control and taxes. Tensions grow between the Crown and local elites."
+          },
+          "independenceMovements": {
+            "date": "1780–1821",
+            "label": "Rebellions & independence",
+            "description": "Túpac Amaru II’s rebellion and other uprisings pave the way for Peru’s independence."
+          }
+        }
+      },
+      "structure": {
+        "title": "How the Viceroyalty worked",
+        "lead": "A simple explanation that you can expand depending on the group.",
+        "items": {
+          "power": {
+            "title": "Power and authorities",
+            "text": "The King of Spain was the highest authority. In America the viceroy ruled, supported by audiencias, local officials and town councils. In practice, local elites also had a lot of influence."
+          },
+          "economy": {
+            "title": "Mining economy",
+            "text": "Silver from Potosí and other mines financed the Spanish empire. Forced labor systems such as the mining mita affected thousands of Indigenous people."
+          },
+          "society": {
+            "title": "Caste society",
+            "text": "Population was classified by origin: peninsular Spaniards, criollos, Indigenous people, enslaved Africans and mixed groups. Everyday life, however, was far more complex and mixed than any list."
+          },
+          "church": {
+            "title": "Church and cultural control",
+            "text": "The Catholic Church evangelized, educated and also watched over ideas considered dangerous. At the same time, many devotions and festivals mixed Indigenous, African and European traditions."
+          }
+        }
+      },
+      "life": {
+        "title": "Everyday life in the Viceroyalty",
+        "city": {
+          "title": "Cities and main squares",
+          "text": "In cities like Lima, the main square was the center of power: cathedral, government palace and houses of important families surrounded it."
+        },
+        "countryside": {
+          "title": "Countryside and haciendas",
+          "text": "In the countryside, large estates produced food and livestock. Many Indigenous people worked there under different forms of dependence."
+        },
+        "mixing": {
+          "title": "Cultural mixing",
+          "text": "Food, music, language and festivals were constantly mixing Indigenous, African and European elements. Many \"typical\" Peruvian expressions come from this process."
+        }
+      },
+      "sites": {
+        "title": "Colonial Lima you can show on your tours",
+        "lead": "These places in the Historic Center of Lima are perfect to talk about the Viceroyalty while you walk with your group.",
+        "buttons": {
+          "map": "Open map",
+          "destinations": "See in Destinations"
+        },
+        "items": {
+          "plazaArmasLima": {
+            "name": "Main Square of Lima",
+            "location": "Historic Center of Lima",
+            "description": "Stage of political and religious power: here you find the government palace, the cathedral and houses of influential families.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#lima-centro"
+          },
+          "catedralLima": {
+            "name": "Cathedral of Lima",
+            "location": "East side of the Main Square",
+            "description": "Main temple of the colonial city. A good place to talk about the role of the Church and architectural changes over time.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#lima-centro"
+          },
+          "casaAliaga": {
+            "name": "Casa Aliaga",
+            "location": "Across from the Government Palace",
+            "description": "Colonial mansion linked to the same family since the 16th century. Great to talk about elites, domestic life and continuity in Lima’s history.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#lima-centro"
+          },
+          "sanFrancisco": {
+            "name": "San Francisco Convent and catacombs",
+            "location": "Near the Main Square",
+            "description": "Religious complex famous for its cloisters and catacombs. Ideal to explain the role of religious orders and spirituality in colonial times.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#lima-centro"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips for explaining the Viceroyalty on tour",
+        "lead": "Use these ideas so colonial history feels alive instead of a dry list of dates.",
+        "groups": {
+          "storyIdeas": "Storytelling ideas",
+          "curiosities": "Fun facts"
+        },
+        "items": {
+          "ideaStory1": "Start from the square: show how political, religious and economic power all meet in the same space.",
+          "ideaStory2": "Connect the Viceroyalty with today: ask which surnames, churches or typical dishes come from that colonial mixture.",
+          "curiosity1": "Lima was so important that for centuries it controlled territories that are now part of several South American countries.",
+          "curiosity2": "Many \"miraculous\" images and saints combine European elements with Andean and African devotions."
+        },
+        "footer": "Adjust the level of detail to the time you have and the group’s interest. Not every tour needs the same depth."
+      }
+    },
+    "republica": {
+      "eyebrow": "Stage 4 – Republic of Peru",
+      "title": "Republic of Peru: crises, change and identity",
+      "subtitle": "From independence to the present, Peru has gone through wars, economic crises, internal migration and a lot of creativity. This stage helps you connect history with the modern Lima your visitors see.",
+      "tags": {
+        "period": "From 1821 to the present",
+        "focus": "Independence, modernization and contemporary Peru"
+      },
+      "keyIdeas": {
+        "title": "Key takeaways",
+        "lead": "To give a simple explanation of the Republic, these three ideas are usually enough.",
+        "bullets": {
+          "one": "Independence did not solve everything: the new State went through decades of instability and military strongmen.",
+          "two": "The economy relied on export cycles (guano, saltpeter, minerals), which brought moments of wealth and also deep crises.",
+          "three": "Modern Peru is built through internal migration, cultural mixing and a constant search for a shared identity."
+        }
+      },
+      "timeline": {
+        "title": "Quick timeline",
+        "lead": "Four moments to organize the republican period without overwhelming the group.",
+        "items": {
+          "independence": {
+            "date": "1821–1824",
+            "label": "Peruvian independence",
+            "description": "San Martín’s proclamation in Lima and later military campaigns by Bolívar and Sucre that secured independence."
+          },
+          "earlyRepublic": {
+            "date": "Early 19th century",
+            "label": "First republican decades",
+            "description": "Unstable governments, military caudillos and difficulties building a strong State with presence across the territory."
+          },
+          "exportCycles": {
+            "date": "19th – early 20th century",
+            "label": "Export cycles",
+            "description": "Periods of wealth thanks to guano, saltpeter and other exports, followed by crises, debt and conflicts like the War of the Pacific."
+          },
+          "modernPeru": {
+            "date": "20th century – today",
+            "label": "Contemporary Peru",
+            "description": "Rural–urban migration, internal conflict, new constitutions and a changing urban life."
+          }
+        }
+      },
+      "structure": {
+        "title": "How to explain the Republic in a simple way",
+        "lead": "You don’t need to list all presidents; it’s better to focus on these axes.",
+        "items": {
+          "state": {
+            "title": "State and politics",
+            "text": "The Republic tries to build its own institutions: constitutions, Congress, political parties. There are periods of democracy and also coups and authoritarian governments."
+          },
+          "economy": {
+            "title": "Economy and models",
+            "text": "The country moves through different models: export of raw materials, attempts at industrialization, agrarian reforms and, later on, economic liberalization."
+          },
+          "society": {
+            "title": "Society and inequality",
+            "text": "Inequalities between coast, highlands and jungle remain, but middle classes grow, education expands and more groups participate in public life."
+          },
+          "conflicts": {
+            "title": "Conflicts and memory",
+            "text": "External wars (like the War of the Pacific) and the internal conflict of the late 20th century leave deep scars. Today there is debate about how to remember them and what changes are needed."
+          }
+        }
+      },
+      "life": {
+        "title": "Everyday life in the republican period",
+        "city": {
+          "title": "Lima and the modern city",
+          "text": "Lima expands with new neighborhoods, transport, parks and shopping areas. It is the perfect stage to talk about the Peru visitors see today."
+        },
+        "regions": {
+          "title": "Coast, highlands and jungle today",
+          "text": "Each region contributes different traditions, accents, foods and festivals. Many people move between regions in search of work and opportunities."
+        },
+        "identity": {
+          "title": "Peruvian identity",
+          "text": "Cuisine, football, music, dances and festivities help create a shared identity, even though debates on racism, centralism and representation are still very present."
+        }
+      },
+      "sites": {
+        "title": "Places to talk about the Republic in Lima",
+        "lead": "These spots in the city help you connect republican history with what the group is seeing right now.",
+        "buttons": {
+          "map": "Open map",
+          "destinations": "See in Destinations"
+        },
+        "items": {
+          "plazaSanMartin": {
+            "name": "San Martín Square",
+            "location": "Downtown Lima",
+            "description": "Square built to celebrate the centennial of independence. Ideal to talk about heroes, monuments and historical memory.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#lima-centro"
+          },
+          "parqueReserva": {
+            "name": "Parque de la Reserva – Magic Water Circuit",
+            "location": "Cercado de Lima",
+            "description": "Early 20th-century park adapted today with dancing fountains and a night show. A good example of how the city reinvents itself.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#circuito-magico"
+          },
+          "mirafloresMalecon": {
+            "name": "Miraflores clifftop walk & parks",
+            "location": "Miraflores coast",
+            "description": "Parks along the cliffs, bike lanes and Pacific Ocean views. Great to talk about tourism, urban life and contemporary Lima.",
+            "mapUrl": "https://maps.app.goo.gl/XXXXXXXX",
+            "destLink": "/en/destinations#miraflores"
+          }
+        }
+      },
+      "tips": {
+        "title": "Tips for explaining the Republic without becoming partisan",
+        "lead": "Your goal is not to share your personal opinion, but to give context so visitors can understand today’s Peru.",
+        "groups": {
+          "storyIdeas": "Storytelling ideas",
+          "curiosities": "Fun facts"
+        },
+        "items": {
+          "ideaStory1": "Connect a specific place with a historical change, for example San Martín Square with independence and national celebrations.",
+          "ideaStory2": "Ask the group what surprises them most about modern Lima and use that as a starting point to talk about migration, new neighborhoods and cultural mixing.",
+          "curiosity1": "People born in all regions of Peru now live in Lima; many regional customs can be found in the capital.",
+          "curiosity2": "Several \"classic\" Peruvian dishes, such as lomo saltado or pollo a la brasa, are republican creations that blend influences from different origins."
+        },
+        "footer": "Keep a balanced tone: be clear with historical facts, avoid party politics and leave room for the group to form their own opinions."
+      }
     }
-  },
-  "Contact": {
+},
+"Contact": {
     "hero": {
       "eyebrow": "Let's talk",
       "title": "Questions about Peru?",
       "subtitle": "Write to Mily and she'll help you plan your trip.",
       "alt": "Contact Mily"
+    },
+    "profile": {
+      "eyebrow": "ABOUT MILY",
+      "title": "Your local guide in Peru",
+      "intro": "Mily is a licensed tour guide and the creator of this blog, passionate about showing Peru in a clear, friendly, and authentic way.",
+
+      "experience": {
+        "title": "Experience",
+        "text": "Official tour guide with experience assisting both local and international travelers in Lima and southern Peru."
+      },
+
+      "places": {
+        "title": "Destinations she knows",
+        "text": "Lima, Ica, Paracas, Huacachina, Nazca, and Peru’s main cultural and gastronomic destinations."
+      },
+
+      "languages": {
+        "title": "Languages",
+        "text": "Spanish (native) and English, perfect for international travelers looking for a smooth experience."
+      }
     }
-  }
+}
 }

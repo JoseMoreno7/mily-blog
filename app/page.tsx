@@ -9,7 +9,7 @@ export default function HomePage() {
   return (
     <div className="space-y-12 pb-16">
       <PageHero />
-      <BestDestinationsSection />
+      <BestDestinationsSection/>
       <HeroCarousel />
       <HistoryPreviewSection />
       <AboutMiniSection />
