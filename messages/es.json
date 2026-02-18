@@ -1365,6 +1365,33 @@
         "title": "Idiomas",
         "text": "Español (nativo) e inglés, ideal para viajeros internacionales que buscan una experiencia sin barreras."
       }
+    },
+    "Contact": {
+    "form": {
+      "eyebrow": "ESCRÍBENOS",
+      "title": "Envíanos un correo",
+      "subtitle": "Cuéntanos qué necesitas (dudas, recomendaciones o tours). Te responderemos lo antes posible.",
+      "fields": {
+        "name": "Nombre",
+        "email": "Correo",
+        "subject": "Asunto (opcional)",
+        "message": "Mensaje"
+      },
+      "placeholders": {
+        "name": "Tu nombre",
+        "email": "tuemail@ejemplo.com",
+        "subject": "Ej: Viaje a Lima + Ica",
+        "message": "Hola Mily, viajaré en mayo y quisiera recomendaciones..."
+      },
+      "hint": "Mientras más detalles, mejor.",
+      "cta": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Listo! Tu mensaje fue enviado. Te responderemos pronto.",
+      "privacy": "No compartimos tu información. Solo la usaremos para responderte.",
+      "errors": {
+        "generic": "Ocurrió un error. Intenta de nuevo en unos minutos."
+      }
     }
+  }
 }
 }

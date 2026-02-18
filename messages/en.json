@@ -1368,6 +1368,31 @@
         "title": "Languages",
         "text": "Spanish (native) and English, perfect for international travelers looking for a smooth experience."
       }
+    },
+    "form": {
+      "eyebrow": "CONTACT",
+      "title": "Send us an email",
+      "subtitle": "Tell us what you need (questions, recommendations, or tours). We’ll reply as soon as possible.",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject (optional)",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Your name",
+        "email": "you@example.com",
+        "subject": "Ex: Trip to Lima + Ica",
+        "message": "Hi Mily, I’m traveling in May and I’d love recommendations..."
+      },
+      "hint": "More details = better help.",
+      "cta": "Send message",
+      "sending": "Sending...",
+      "success": "Done! Your message was sent. We’ll get back to you soon.",
+      "privacy": "We don’t share your info. We’ll only use it to reply.",
+      "errors": {
+        "generic": "Something went wrong. Please try again in a few minutes."
+      }
     }
 }
 }
