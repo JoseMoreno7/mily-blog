@@ -1366,7 +1366,6 @@
         "text": "Español (nativo) e inglés, ideal para viajeros internacionales que buscan una experiencia sin barreras."
       }
     },
-    "Contact": {
     "form": {
       "eyebrow": "ESCRÍBENOS",
       "title": "Envíanos un correo",
@@ -1392,6 +1391,5 @@
         "generic": "Ocurrió un error. Intenta de nuevo en unos minutos."
       }
     }
-  }
 }
 }
